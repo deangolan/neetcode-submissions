@@ -48,5 +48,85 @@
     "sha256": "14693e6a3d0bd57c2bad9a45b8f1ec8a64a95ff7cedfd0307b62848ea0ac5623",
     "status": "Accepted",
     "submission_id": 2093203605
+  },
+  "capacity-to-ship-packages-within-d-days": {
+    "at": "2026-08-03T20:55:23Z",
+    "file": "submission-0.py",
+    "leetcode_id": 1011,
+    "leetcode_slug": "capacity-to-ship-packages-within-d-days",
+    "note": "verbatim",
+    "sha256": "5c452b0b63a3aaeaaf7eeaeec9b90cff1f2978ba2fd2401d7b5f2d4f419d78ef",
+    "status": "Accepted",
+    "submission_id": 2093206494
+  },
+  "climbing-stairs": {
+    "at": "2026-08-03T20:56:11Z",
+    "file": "submission-1.py",
+    "leetcode_id": 70,
+    "leetcode_slug": "climbing-stairs",
+    "note": "verbatim",
+    "sha256": "b430eaceefefc61ea637f51c0cb1487746de03805d243f043ba36b6a36eeec94",
+    "status": "Accepted",
+    "submission_id": 2093206877
+  },
+  "continuous-subarray-sum": {
+    "at": "2026-08-03T20:56:59Z",
+    "file": "submission-2.py",
+    "leetcode_id": 523,
+    "leetcode_slug": "continuous-subarray-sum",
+    "note": "verbatim",
+    "sha256": "af1a856cd6ebf451e7f5725b9ea950a24b8aaf0edc217f59f2c889e12a61bdd9",
+    "status": "Accepted",
+    "submission_id": 2093207267
+  },
+  "design-twitter-feed": {
+    "at": "2026-08-03T20:58:32Z",
+    "file": "submission-5.py",
+    "leetcode_id": 355,
+    "leetcode_slug": "design-twitter",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "36b1bec729d3c84803f6014cfde5da1b0f3f4849e5b4f974bb897bb254e013d3",
+    "status": "Runtime Error",
+    "submission_id": 2093207979
+  },
+  "dota2-senate": {
+    "at": "2026-08-03T20:59:20Z",
+    "file": "submission-2.py",
+    "leetcode_id": 649,
+    "leetcode_slug": "dota2-senate",
+    "note": "verbatim",
+    "sha256": "94363b4d2600d60d03cc926fecca79da8207ca7281ee381dcbfaa365da55b9f5",
+    "status": "Accepted",
+    "submission_id": 2093208347
+  },
+  "duplicate-integer": {
+    "at": "2026-08-03T21:00:08Z",
+    "file": "submission-1.py",
+    "leetcode_id": 217,
+    "leetcode_slug": "contains-duplicate",
+    "note": "renamed hasDuplicate -> containsDuplicate",
+    "sha256": "4a682a9f5ba91078b43fc8830f478da5c876662681d5f237e31cfd77a1b278fc",
+    "status": "Accepted",
+    "submission_id": 2093208727
+  },
+  "eating-bananas": {
+    "at": "2026-08-03T21:00:56Z",
+    "file": "submission-1.py",
+    "leetcode_id": 875,
+    "leetcode_slug": "koko-eating-bananas",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "94023abaf73cac82532e8f12f633523bfecc728363b6af80dc499e47a41a6e99",
+    "status": "Accepted",
+    "submission_id": 2093209094
+  },
+  "final-array-state-after-k-multiplication-operations-i": {
+    "at": "2026-08-03T21:01:44Z",
+    "file": "submission-0.py",
+    "leetcode_id": 3264,
+    "leetcode_slug": "final-array-state-after-k-multiplication-operations-i",
+    "note": "verbatim",
+    "sha256": "c29f6a23b8f57e5d2229a24a2ef118d92d99e2ddd174d2e9f54d54cf00726203",
+    "status": "Accepted",
+    "submission_id": 2093209447
   }
 }
