@@ -208,5 +208,345 @@
     "sha256": "a70b235802efd5c6c0dfb0b1d7fd3c498245baf62e96f644dd89c6b779ce280a",
     "status": "Accepted",
     "submission_id": 2093214921
+  },
+  "is-palindrome": {
+    "at": "2026-08-03T21:16:44Z",
+    "file": "submission-1.py",
+    "leetcode_id": 125,
+    "leetcode_slug": "valid-palindrome",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "37a067dc0e39c76a7f4efce292d507b5f6b795931f3805e3e44c5b4b566ac567",
+    "status": "Accepted",
+    "submission_id": 2093215995
+  },
+  "jump-game": {
+    "at": "2026-08-03T21:18:17Z",
+    "file": "submission-2.py",
+    "leetcode_id": 55,
+    "leetcode_slug": "jump-game",
+    "note": "verbatim",
+    "sha256": "e5b82f9c76d9eea27da9db697192792a270ac9153a9ea2958bf2c69f14585ae5",
+    "status": "Accepted",
+    "submission_id": 2093216639
+  },
+  "jump-game-ii": {
+    "at": "2026-08-03T21:19:05Z",
+    "file": "submission-5.py",
+    "leetcode_id": 45,
+    "leetcode_slug": "jump-game-ii",
+    "note": "verbatim",
+    "sha256": "fd37a41762cebba5cca1f8abdea49c1f769eea8602e21133847f2c8fb351f14d",
+    "status": "Wrong Answer",
+    "submission_id": 2093216950
+  },
+  "kth-largest-element-in-an-array": {
+    "at": "2026-08-03T21:19:53Z",
+    "file": "submission-2.py",
+    "leetcode_id": 215,
+    "leetcode_slug": "kth-largest-element-in-an-array",
+    "note": "verbatim",
+    "sha256": "e25562a8bbc09cfed54670ef670b46079309f7e34c5d2294143f6695c04e46c3",
+    "status": "Accepted",
+    "submission_id": 2093217277
+  },
+  "kth-largest-integer-in-a-stream": {
+    "at": "2026-08-03T21:20:41Z",
+    "file": "submission-1.py",
+    "leetcode_id": 703,
+    "leetcode_slug": "kth-largest-element-in-a-stream",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "756f97b20b37e8b61e6ea1bffd25fab9d1f1c7227b25c31f9f5b1e7b5ed6ec70",
+    "status": "Accepted",
+    "submission_id": 2093217598
+  },
+  "last-stone-weight": {
+    "at": "2026-08-03T21:21:29Z",
+    "file": "submission-2.py",
+    "leetcode_id": 1046,
+    "leetcode_slug": "last-stone-weight",
+    "note": "verbatim",
+    "sha256": "2f41a5bc34078c8e214d8b5b5d0be1ee41999179735ca0b417288127e818fd20",
+    "status": "Accepted",
+    "submission_id": 2093217901
+  },
+  "linked-list-cycle-detection": {
+    "at": "2026-08-03T21:22:19Z",
+    "file": "submission-3.py",
+    "leetcode_id": 141,
+    "leetcode_slug": "linked-list-cycle",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "83bdc09f062e4f4f4277fc360afda6aea14b34384f7ab326ee847c174e6210d1",
+    "status": "Accepted",
+    "submission_id": 2093218241
+  },
+  "longest-increasing-subsequence": {
+    "at": "2026-08-03T21:23:10Z",
+    "file": "submission-1.py",
+    "leetcode_id": 300,
+    "leetcode_slug": "longest-increasing-subsequence",
+    "note": "verbatim",
+    "sha256": "bc561205fc6c0d93bc3cc95db35511b457865c0221a8fecc7dccc5ad944f619e",
+    "status": "Accepted",
+    "submission_id": 2093218588
+  },
+  "longest-palindromic-substring": {
+    "at": "2026-08-03T21:23:59Z",
+    "file": "submission-0.py",
+    "leetcode_id": 5,
+    "leetcode_slug": "longest-palindromic-substring",
+    "note": "verbatim",
+    "sha256": "1317f6f93598762dab8cf152a250cf135f10bda9952d6e3e11aeec4ca3aa8924",
+    "status": "Accepted",
+    "submission_id": 2093218924
+  },
+  "longest-repeating-substring-with-replacement": {
+    "at": "2026-08-03T21:24:47Z",
+    "file": "submission-10.py",
+    "leetcode_id": 424,
+    "leetcode_slug": "longest-repeating-character-replacement",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "c2cbd5d05cf15ae52d810674b70fbd28435e1db7061b0001f9f1301195e9ef2e",
+    "status": "Accepted",
+    "submission_id": 2093219247
+  },
+  "longest-turbulent-subarray": {
+    "at": "2026-08-03T21:25:35Z",
+    "file": "submission-3.py",
+    "leetcode_id": 978,
+    "leetcode_slug": "longest-turbulent-subarray",
+    "note": "verbatim",
+    "sha256": "7d7f257c714583ef259264bebdf47078fc8c58b55f03361e7096dcc688dc3778",
+    "status": "Accepted",
+    "submission_id": 2093219577
+  },
+  "max-water-container": {
+    "at": "2026-08-03T21:26:23Z",
+    "file": "submission-0.py",
+    "leetcode_id": 11,
+    "leetcode_slug": "container-with-most-water",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "ab274fa6ebe2f0d1e789f349ce320aa3cefbc02fd6cb63c51536a8eb89fe4672",
+    "status": "Accepted",
+    "submission_id": 2093219899
+  },
+  "maximum-subarray": {
+    "at": "2026-08-03T21:27:55Z",
+    "file": "submission-5.py",
+    "leetcode_id": 53,
+    "leetcode_slug": "maximum-subarray",
+    "note": "verbatim",
+    "sha256": "09b7990d6c054ff44dce07f7ed35c8f32b650f8bf72608728c7cadbd858fb904",
+    "status": "Accepted",
+    "submission_id": 2093220520
+  },
+  "maximum-sum-circular-subarray": {
+    "at": "2026-08-03T21:28:43Z",
+    "file": "submission-1.py",
+    "leetcode_id": 918,
+    "leetcode_slug": "maximum-sum-circular-subarray",
+    "note": "verbatim",
+    "sha256": "9ef4892bfe884beee2a1f81299d31f41f3948a919670ce7ac69f27bf352c27b1",
+    "status": "Accepted",
+    "submission_id": 2093220810
+  },
+  "merge-triplets-to-form-target": {
+    "at": "2026-08-03T21:29:31Z",
+    "file": "submission-1.py",
+    "leetcode_id": 1899,
+    "leetcode_slug": "merge-triplets-to-form-target-triplet",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "86c38adf0f58a19f14f7d186b5dfe30e5eac9403fd6dce0aae5d1fe90963c653",
+    "status": "Accepted",
+    "submission_id": 2093221094
+  },
+  "min-cost-climbing-stairs": {
+    "at": "2026-08-03T21:30:18Z",
+    "file": "submission-0.py",
+    "leetcode_id": 746,
+    "leetcode_slug": "min-cost-climbing-stairs",
+    "note": "verbatim",
+    "sha256": "05dc2ab5a6cfe5a22e6634b83f12ec698deef2d0ccfd2ce28089453d82082ff9",
+    "status": "Accepted",
+    "submission_id": 2093221419
+  },
+  "minimum-stack": {
+    "at": "2026-08-03T21:31:07Z",
+    "file": "submission-0.py",
+    "leetcode_id": 155,
+    "leetcode_slug": "min-stack",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "4925e3a136f178cc7202eb5f8deb77392adfe738724ce1f149f2a3c1ef6f524e",
+    "status": "Accepted",
+    "submission_id": 2093221717
+  },
+  "minimum-window-with-characters": {
+    "at": "2026-08-03T21:32:06Z",
+    "file": "submission-2.py",
+    "leetcode_id": 76,
+    "leetcode_slug": "minimum-window-substring",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "53417386724c600ebce654b2358d27bd86d8b5b92324bc9aa507fbf5a56d809c",
+    "status": "Time Limit Exceeded",
+    "submission_id": 2093222031
+  },
+  "pacific-atlantic-water-flow": {
+    "at": "2026-08-03T21:32:54Z",
+    "file": "submission-0.py",
+    "leetcode_id": 417,
+    "leetcode_slug": "pacific-atlantic-water-flow",
+    "note": "verbatim",
+    "sha256": "541fccc236bbbf198a1a4d2ec9c32ae1d09450b51507f921f17aac4d3d9ef8e6",
+    "status": "Accepted",
+    "submission_id": 2093222388
+  },
+  "partition-equal-subset-sum": {
+    "at": "2026-08-03T21:33:42Z",
+    "file": "submission-1.py",
+    "leetcode_id": 416,
+    "leetcode_slug": "partition-equal-subset-sum",
+    "note": "verbatim",
+    "sha256": "04ea189eb11969fc4e03687ccb2d823c1a56c9a8b03e259e531d488df4cea9bb",
+    "status": "Accepted",
+    "submission_id": 2093222669
+  },
+  "permutation-string": {
+    "at": "2026-08-03T21:34:30Z",
+    "file": "submission-1.py",
+    "leetcode_id": 567,
+    "leetcode_slug": "permutation-in-string",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "d2d726e81f82ced2c2d4d422549fb92320e2d2a5579be6296fe237656c364ff7",
+    "status": "Accepted",
+    "submission_id": 2093222974
+  },
+  "random-pick-with-weight": {
+    "at": "2026-08-03T21:35:21Z",
+    "file": "submission-1.py",
+    "leetcode_id": 528,
+    "leetcode_slug": "random-pick-with-weight",
+    "note": "verbatim",
+    "sha256": "6d7c96c19aabe65d2cd2bdd9c51dd10628ab82f9e65d730db6ed75a511876b30",
+    "status": "Memory Limit Exceeded",
+    "submission_id": 2093223266
+  },
+  "remove-node-from-end-of-linked-list": {
+    "at": "2026-08-03T21:36:09Z",
+    "file": "submission-1.py",
+    "leetcode_id": 19,
+    "leetcode_slug": "remove-nth-node-from-end-of-list",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "480e1d4ff367860481df2fefe62e092affab2f3a4f0b0c5ec52ad74c8781e6d8",
+    "status": "Accepted",
+    "submission_id": 2093223583
+  },
+  "same-binary-tree": {
+    "at": "2026-08-03T21:36:57Z",
+    "file": "submission-0.py",
+    "leetcode_id": 100,
+    "leetcode_slug": "same-tree",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "c2befb336644b801ce01e2bf4a14d088ec774fb4b0d996ba43093a9577b20f5b",
+    "status": "Accepted",
+    "submission_id": 2093223910
+  },
+  "search-2d-matrix": {
+    "at": "2026-08-03T21:37:45Z",
+    "file": "submission-2.py",
+    "leetcode_id": 74,
+    "leetcode_slug": "search-a-2d-matrix",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "06a3718186e559e187dc0812f437d58a3d6f61fb6d5425646a8614a9e2cf5767",
+    "status": "Accepted",
+    "submission_id": 2093224236
+  },
+  "single-element-in-a-sorted-array": {
+    "at": "2026-08-03T21:38:32Z",
+    "file": "submission-1.py",
+    "leetcode_id": 540,
+    "leetcode_slug": "single-element-in-a-sorted-array",
+    "note": "verbatim",
+    "sha256": "e27bd7794d19c807ebced85cc4a594f369619ba1046637d4b5a3dece1c069210",
+    "status": "Accepted",
+    "submission_id": 2093224552
+  },
+  "take-gifts-from-the-richest-pile": {
+    "at": "2026-08-03T21:40:51Z",
+    "file": "submission-0.py",
+    "leetcode_id": 2558,
+    "leetcode_slug": "take-gifts-from-the-richest-pile",
+    "note": "verbatim",
+    "sha256": "f718df7b600d2c3dcd377dadb213bbfd150d35e2a4b9cb27cfd62acb0b4898bc",
+    "status": "Accepted",
+    "submission_id": 2093225361
+  },
+  "three-integer-sum": {
+    "at": "2026-08-03T21:41:40Z",
+    "file": "submission-6.py",
+    "leetcode_id": 15,
+    "leetcode_slug": "3sum",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "c7cf1049b3f30e035357180643c79ee0fe91f280f18934c7566d3b2224b64c21",
+    "status": "Accepted",
+    "submission_id": 2093225671
+  },
+  "time-based-key-value-store": {
+    "at": "2026-08-03T21:42:28Z",
+    "file": "submission-2.py",
+    "leetcode_id": 981,
+    "leetcode_slug": "time-based-key-value-store",
+    "note": "verbatim",
+    "sha256": "4d574c41a52f87e9118f0b02abd7e6605ab2ae7cb6861f53726e2d412a33cbd3",
+    "status": "Accepted",
+    "submission_id": 2093225950
+  },
+  "trapping-rain-water": {
+    "at": "2026-08-03T21:44:01Z",
+    "file": "submission-1.py",
+    "leetcode_id": 42,
+    "leetcode_slug": "trapping-rain-water",
+    "note": "verbatim",
+    "sha256": "62e61aa8e78d5f05161a5152dd3ed0898e0b20013c4b4e3d561c39730fe38f88",
+    "status": "Accepted",
+    "submission_id": 2093226511
+  },
+  "valid-parenthesis-string": {
+    "at": "2026-08-03T21:44:49Z",
+    "file": "submission-2.py",
+    "leetcode_id": 678,
+    "leetcode_slug": "valid-parenthesis-string",
+    "note": "verbatim",
+    "sha256": "ee0f1d578540fe2af32798e1e858feb028036fbbee4a13a8ebb63ae0a48a681c",
+    "status": "Accepted",
+    "submission_id": 2093226795
+  },
+  "valid-sudoku": {
+    "at": "2026-08-03T21:45:38Z",
+    "file": "submission-0.py",
+    "leetcode_id": 36,
+    "leetcode_slug": "valid-sudoku",
+    "note": "verbatim",
+    "sha256": "04afce74cd4fffc956979df0ed60a7d9be859c01551ceb0637f13539c45f35ef",
+    "status": "Accepted",
+    "submission_id": 2093227091
+  },
+  "validate-parentheses": {
+    "at": "2026-08-03T21:46:25Z",
+    "file": "submission-1.py",
+    "leetcode_id": 20,
+    "leetcode_slug": "valid-parentheses",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "2e622d48ab5915380750835a1a473f6cd1f6c3585030771931021a1351056c1f",
+    "status": "Accepted",
+    "submission_id": 2093227379
+  },
+  "word-break": {
+    "at": "2026-08-03T21:47:58Z",
+    "file": "submission-3.py",
+    "leetcode_id": 139,
+    "leetcode_slug": "word-break",
+    "note": "verbatim",
+    "sha256": "7107ac8f5c70620434a109506eae8bd25e17d2f426cfe3d82ad20398590a4d1b",
+    "status": "Accepted",
+    "submission_id": 2093227894
   }
 }
