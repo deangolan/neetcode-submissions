@@ -1,4 +1,14 @@
 {
+  "balanced-binary-tree": {
+    "at": "2026-08-03T21:07:11Z",
+    "file": "submission-1.py",
+    "leetcode_id": 110,
+    "leetcode_slug": "balanced-binary-tree",
+    "note": "verbatim",
+    "sha256": "0497f8efb1e64dee7a46bbac2598dba4c7512c9bd8a7c78b7d5ab0c232324b99",
+    "status": "Accepted",
+    "submission_id": 2093211730
+  },
   "binary-search": {
     "at": "2026-08-03T20:36:45Z",
     "file": "submission-1.py",
@@ -128,5 +138,75 @@
     "sha256": "c29f6a23b8f57e5d2229a24a2ef118d92d99e2ddd174d2e9f54d54cf00726203",
     "status": "Accepted",
     "submission_id": 2093209447
+  },
+  "find-first-and-last-position-of-element-in-sorted-array": {
+    "at": "2026-08-03T21:08:44Z",
+    "file": "submission-1.py",
+    "leetcode_id": 34,
+    "leetcode_slug": "find-first-and-last-position-of-element-in-sorted-array",
+    "note": "verbatim",
+    "sha256": "fdf58d80319ce5d35948fc0790820c76edc87b345f06199af5ee4c774ca4d7a6",
+    "status": "Accepted",
+    "submission_id": 2093212403
+  },
+  "find-median-in-a-data-stream": {
+    "at": "2026-08-03T21:09:32Z",
+    "file": "submission-3.py",
+    "leetcode_id": 295,
+    "leetcode_slug": "find-median-from-data-stream",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "b3e7fc7e20f8002481d5bef55c9dbf4788b3500ce26ea20a32b554e635678898",
+    "status": "Output Limit Exceeded",
+    "submission_id": 2093212747
+  },
+  "find-minimum-in-rotated-sorted-array": {
+    "at": "2026-08-03T21:10:20Z",
+    "file": "submission-2.py",
+    "leetcode_id": 153,
+    "leetcode_slug": "find-minimum-in-rotated-sorted-array",
+    "note": "verbatim",
+    "sha256": "70ed544d24cb0c342c5f0d94a808df276ffef93255d654d92791e617e30f8318",
+    "status": "Accepted",
+    "submission_id": 2093213073
+  },
+  "find-peak-element": {
+    "at": "2026-08-03T21:11:07Z",
+    "file": "submission-4.py",
+    "leetcode_id": 162,
+    "leetcode_slug": "find-peak-element",
+    "note": "verbatim",
+    "sha256": "9b80af83c39c6009fd1ab29a3feabc8fb0f42071c3972644af6631804610460e",
+    "status": "Accepted",
+    "submission_id": 2093213428
+  },
+  "find-target-in-rotated-sorted-array": {
+    "at": "2026-08-03T21:11:55Z",
+    "file": "submission-11.py",
+    "leetcode_id": 33,
+    "leetcode_slug": "search-in-rotated-sorted-array",
+    "note": "verbatim",
+    "sha256": "4bc8c1dc64f8fa55374b17b7f2801481e8c1a15a7343065fcfe920c21f882094",
+    "status": "Accepted",
+    "submission_id": 2093213792
+  },
+  "hand-of-straights": {
+    "at": "2026-08-03T21:13:28Z",
+    "file": "submission-3.py",
+    "leetcode_id": 846,
+    "leetcode_slug": "hand-of-straights",
+    "note": "verbatim",
+    "sha256": "8881355f3fc9a159787303fd5ce6c59925d4555ba15edab03b65d8c634fdb47c",
+    "status": "Accepted",
+    "submission_id": 2093214544
+  },
+  "is-anagram": {
+    "at": "2026-08-03T21:14:16Z",
+    "file": "submission-2.py",
+    "leetcode_id": 242,
+    "leetcode_slug": "valid-anagram",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "a70b235802efd5c6c0dfb0b1d7fd3c498245baf62e96f644dd89c6b779ce280a",
+    "status": "Accepted",
+    "submission_id": 2093214921
   }
 }
