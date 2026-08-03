@@ -1,0 +1,86 @@
+# Copy this to .github/workflows/submit.yml in YOUR neetcode-submissions repo.
+# It does not belong in neetcode-to-leetcode: the tool is shared and pinned,
+# while the schedule, the session cookie and the record are yours alone.
+name: nc2lc
+
+on:
+  # NeetCode's GitHub Sync pushes a commit the moment you submit a solution, so
+  # this fires within seconds of solving something. Its own record commit lands
+  # under .nc2lc/, which is ignored here so a run cannot retrigger itself.
+  push:
+    paths-ignore:
+      - ".nc2lc/**"
+  # Backstop. submit.py caps each run (see --limit), so a large first-time
+  # backlog needs several runs to drain and would otherwise sit until the next
+  # time you happen to solve something. 05:00 UTC leaves a few hours before the
+  # leetcode-problems tracker syncs at 08:00 UTC, so a solution reaches the
+  # leaderboard the same day.
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Two runs submitting the same backlog at once would double-submit everything.
+concurrency:
+  group: nc2lc
+  cancel-in-progress: false
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      # GITHUB_TOKEN reaches this repository and no other, which is why the
+      # submodule is fetched separately below.
+      - uses: actions/checkout@v4
+
+      # neetcode-to-leetcode is private, so `submodules: true` above would fail:
+      # GITHUB_TOKEN has no access to it. A deploy key on neetcode-to-leetcode
+      # does, and is narrower than a personal access token -- read-only, scoped
+      # to that one repository, revocable without touching anything else.
+      #
+      # Setup, once:
+      #   ssh-keygen -t ed25519 -f nc2lc_key -N "" -C "nc2lc CI"
+      #   gh repo deploy-key add nc2lc_key.pub -R <you>/neetcode-to-leetcode  # NOT --allow-write
+      #   gh secret set NC2LC_DEPLOY_KEY -R <you>/neetcode-submissions < nc2lc_key
+      #   rm nc2lc_key nc2lc_key.pub
+      # The submodule URL must be the SSH form (git@github.com:...) for this.
+      - name: Fetch the nc2lc tool
+        env:
+          NC2LC_DEPLOY_KEY: ${{ secrets.NC2LC_DEPLOY_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s\n' "$NC2LC_DEPLOY_KEY" > ~/.ssh/nc2lc
+          chmod 600 ~/.ssh/nc2lc
+          ssh-keyscan -t ed25519 github.com >> ~/.ssh/known_hosts 2>/dev/null
+          GIT_SSH_COMMAND="ssh -i ~/.ssh/nc2lc -o IdentitiesOnly=yes" \
+            git submodule update --init --depth 1 nc2lc
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # --nc . is this repository: submit.py reads the solution folders here and
+      # writes its record to .nc2lc/ here, never inside the pinned submodule.
+      - name: Submit to LeetCode
+        env:
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+        run: python3 nc2lc/submit.py sync --nc . --limit 10
+
+      # Committing .nc2lc/synced.json is what stops the next run resubmitting
+      # everything. If it fails to push, the work is not lost -- submit.py also
+      # skips anything LeetCode already reports as accepted.
+      - name: Commit the record
+        run: |
+          git config user.name  "nc2lc[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A .nc2lc
+          if git diff --staged --quiet; then
+            echo "no new submissions to record"
+          else
+            git commit -m "nc2lc: $(date -u +%Y-%m-%d)"
+            # NeetCode may have pushed a solution while this run was submitting.
+            git pull --rebase --autostash
+            git push
+          fi

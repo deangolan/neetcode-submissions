@@ -1,0 +1,3 @@
+[submodule "nc2lc"]
+	path = nc2lc
+	url = git@github.com:deangolan/neetcode-to-leetcode.git

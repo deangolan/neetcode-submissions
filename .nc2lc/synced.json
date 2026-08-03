@@ -1,0 +1,52 @@
+{
+  "binary-search": {
+    "at": "2026-08-03T20:36:45Z",
+    "file": "submission-1.py",
+    "leetcode_id": 704,
+    "leetcode_slug": "binary-search",
+    "note": "verbatim",
+    "sha256": "916c5677cc6f602231524134b9677a3fa0cba152a7139af1607dcb9f2af7bc8f",
+    "status": "Accepted",
+    "submission_id": 2093196974
+  },
+  "binary-tree-diameter": {
+    "at": "2026-08-03T20:37:33Z",
+    "file": "submission-0.py",
+    "leetcode_id": 543,
+    "leetcode_slug": "diameter-of-binary-tree",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "b4a11f1ddf4ac147f663e03c358aa0078ca8fc10ef5c884d5a681b7f0638551f",
+    "status": "Accepted",
+    "submission_id": 2093197366
+  },
+  "binary-tree-inorder-traversal": {
+    "at": "2026-08-03T20:45:28Z",
+    "file": "submission-1.py",
+    "leetcode_id": 94,
+    "leetcode_slug": "binary-tree-inorder-traversal",
+    "note": "verbatim",
+    "sha256": "3afab4dc3e2fd5a9f8a1832a8312e0e61e9b574e693b57c092a19957abddd0ce",
+    "status": "Accepted",
+    "submission_id": 2093201483
+  },
+  "binary-tree-postorder-traversal": {
+    "at": "2026-08-03T20:46:16Z",
+    "file": "submission-1.py",
+    "leetcode_id": 145,
+    "leetcode_slug": "binary-tree-postorder-traversal",
+    "note": "verbatim",
+    "sha256": "deaafd99efb763798ec37d692e24397f0d4d47f0785ee8b97e0a174b2d388985",
+    "status": "Accepted",
+    "submission_id": 2093201894
+  },
+  "binary-tree-preorder-traversal": {
+    "at": "2026-08-03T20:49:30Z",
+    "file": "submission-1.py",
+    "leetcode_id": 144,
+    "leetcode_slug": "binary-tree-preorder-traversal",
+    "note": "verbatim",
+    "sha256": "14693e6a3d0bd57c2bad9a45b8f1ec8a64a95ff7cedfd0307b62848ea0ac5623",
+    "status": "Accepted",
+    "submission_id": 2093203605
+  }
+}
