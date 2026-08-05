@@ -329,6 +329,16 @@
     "status": "Accepted",
     "submission_id": 2093219899
   },
+  "maximum-product-subarray": {
+    "at": "2026-08-05T07:34:02Z",
+    "file": "submission-1.py",
+    "leetcode_id": 152,
+    "leetcode_slug": "maximum-product-subarray",
+    "note": "verbatim",
+    "sha256": "a8cc78fb1d63c736b5cb2b5fc71208b84782a7cff946b66e6f5f7ec89a2409b6",
+    "status": "Wrong Answer",
+    "submission_id": 2095006587
+  },
   "maximum-subarray": {
     "at": "2026-08-03T21:27:55Z",
     "file": "submission-5.py",
@@ -499,6 +509,16 @@
     "status": "Accepted",
     "submission_id": 2093225950
   },
+  "top-k-elements-in-list": {
+    "at": "2026-08-05T07:36:19Z",
+    "file": "submission-0.py",
+    "leetcode_id": 347,
+    "leetcode_slug": "top-k-frequent-elements",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "d2a87d5dc1b088044ed638e4b7c6742a6d04ade914ba04d04311f790780bbe98",
+    "status": "Accepted",
+    "submission_id": 2095008475
+  },
   "trapping-rain-water": {
     "at": "2026-08-03T21:44:01Z",
     "file": "submission-1.py",
@@ -538,6 +558,16 @@
     "sha256": "2e622d48ab5915380750835a1a473f6cd1f6c3585030771931021a1351056c1f",
     "status": "Accepted",
     "submission_id": 2093227379
+  },
+  "verifying-an-alien-dictionary": {
+    "at": "2026-08-05T07:37:07Z",
+    "file": "submission-1.py",
+    "leetcode_id": 953,
+    "leetcode_slug": "verifying-an-alien-dictionary",
+    "note": "verbatim",
+    "sha256": "ed50bcc92e14256aa20cc8d2e0c692ba419f80082d86bee09de3ee89226a454a",
+    "status": "Accepted",
+    "submission_id": 2095009115
   },
   "word-break": {
     "at": "2026-08-03T21:47:58Z",
