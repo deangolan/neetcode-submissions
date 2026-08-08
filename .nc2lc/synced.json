@@ -189,6 +189,16 @@
     "status": "Accepted",
     "submission_id": 2093213792
   },
+  "first-unique-character-in-a-string": {
+    "at": "2026-08-08T05:35:58Z",
+    "file": "submission-0.py",
+    "leetcode_id": 387,
+    "leetcode_slug": "first-unique-character-in-a-string",
+    "note": "verbatim",
+    "sha256": "9cbabadd7e264cbdf5fbf616787fec2a3b5a1e1cd824b36870f0ae78771fc38a",
+    "status": "Accepted",
+    "submission_id": 2098678681
+  },
   "hand-of-straights": {
     "at": "2026-08-03T21:13:28Z",
     "file": "submission-3.py",
