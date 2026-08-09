@@ -89,6 +89,16 @@
     "status": "Accepted",
     "submission_id": 2093207267
   },
+  "decode-ways": {
+    "at": "2026-08-09T05:40:13Z",
+    "file": "submission-0.py",
+    "leetcode_id": 91,
+    "leetcode_slug": "decode-ways",
+    "note": "verbatim",
+    "sha256": "a569b2d672622a3891dbce03c58c42699b70d4cfd63d0168bdbb456401082e9a",
+    "status": "Accepted",
+    "submission_id": 2099941641
+  },
   "design-twitter-feed": {
     "at": "2026-08-03T20:58:32Z",
     "file": "submission-5.py",
@@ -508,6 +518,16 @@
     "sha256": "236e857ceda1e0bcc1203ac6c663917a426d84b5678d645182b4da1f95aed929",
     "status": "Accepted",
     "submission_id": 2097558421
+  },
+  "surrounded-regions": {
+    "at": "2026-08-09T05:41:00Z",
+    "file": "submission-2.py",
+    "leetcode_id": 130,
+    "leetcode_slug": "surrounded-regions",
+    "note": "verbatim",
+    "sha256": "1a109d27e595f9885f75ae514e9188e9f582238ff32d8b76bb0182f84bdf6e48",
+    "status": "Accepted",
+    "submission_id": 2099942459
   },
   "take-gifts-from-the-richest-pile": {
     "at": "2026-08-03T21:40:51Z",
