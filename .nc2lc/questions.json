@@ -215,6 +215,33 @@
     },
     "title": "Capacity To Ship Packages Within D Days"
   },
+  "car-pooling": {
+    "frontend_id": "1094",
+    "paid_only": false,
+    "question_id": "1184",
+    "snippets": {
+      "c": "bool carPooling(int** trips, int tripsSize, int* tripsColSize, int capacity) {\n    \n}",
+      "cpp": "class Solution {\npublic:\n    bool carPooling(vector<vector<int>>& trips, int capacity) {\n        \n    }\n};",
+      "csharp": "public class Solution {\n    public bool CarPooling(int[][] trips, int capacity) {\n        \n    }\n}",
+      "dart": "class Solution {\n  bool carPooling(List<List<int>> trips, int capacity) {\n    \n  }\n}",
+      "elixir": "defmodule Solution do\n  @spec car_pooling(trips :: [[integer]], capacity :: integer) :: boolean\n  def car_pooling(trips, capacity) do\n    \n  end\nend",
+      "erlang": "-spec car_pooling(Trips :: [[integer()]], Capacity :: integer()) -> boolean().\ncar_pooling(Trips, Capacity) ->\n  .",
+      "golang": "func carPooling(trips [][]int, capacity int) bool {\n    \n}",
+      "java": "class Solution {\n    public boolean carPooling(int[][] trips, int capacity) {\n        \n    }\n}",
+      "javascript": "/**\n * @param {number[][]} trips\n * @param {number} capacity\n * @return {boolean}\n */\nvar carPooling = function(trips, capacity) {\n    \n};",
+      "kotlin": "class Solution {\n    fun carPooling(trips: Array<IntArray>, capacity: Int): Boolean {\n        \n    }\n}",
+      "php": "class Solution {\n\n    /**\n     * @param Integer[][] $trips\n     * @param Integer $capacity\n     * @return Boolean\n     */\n    function carPooling($trips, $capacity) {\n        \n    }\n}",
+      "python": "class Solution(object):\n    def carPooling(self, trips, capacity):\n        \"\"\"\n        :type trips: List[List[int]]\n        :type capacity: int\n        :rtype: bool\n        \"\"\"\n        ",
+      "python3": "class Solution:\n    def carPooling(self, trips: List[List[int]], capacity: int) -> bool:\n        ",
+      "racket": "(define/contract (car-pooling trips capacity)\n  (-> (listof (listof exact-integer?)) exact-integer? boolean?)\n  )",
+      "ruby": "# @param {Integer[][]} trips\n# @param {Integer} capacity\n# @return {Boolean}\ndef car_pooling(trips, capacity)\n    \nend",
+      "rust": "impl Solution {\n    pub fn car_pooling(trips: Vec<Vec<i32>>, capacity: i32) -> bool {\n        \n    }\n}",
+      "scala": "object Solution {\n    def carPooling(trips: Array[Array[Int]], capacity: Int): Boolean = {\n        \n    }\n}",
+      "swift": "class Solution {\n    func carPooling(_ trips: [[Int]], _ capacity: Int) -> Bool {\n        \n    }\n}",
+      "typescript": "function carPooling(trips: number[][], capacity: number): boolean {\n    \n};"
+    },
+    "title": "Car Pooling"
+  },
   "climbing-stairs": {
     "frontend_id": "70",
     "paid_only": false,
@@ -290,6 +317,60 @@
       "typescript": "function coinChange(coins: number[], amount: number): number {\n    \n};"
     },
     "title": "Coin Change"
+  },
+  "combination-sum-iv": {
+    "frontend_id": "377",
+    "paid_only": false,
+    "question_id": "377",
+    "snippets": {
+      "c": "int combinationSum4(int* nums, int numsSize, int target) {\n    \n}",
+      "cpp": "class Solution {\npublic:\n    int combinationSum4(vector<int>& nums, int target) {\n        \n    }\n};",
+      "csharp": "public class Solution {\n    public int CombinationSum4(int[] nums, int target) {\n        \n    }\n}",
+      "dart": "class Solution {\n  int combinationSum4(List<int> nums, int target) {\n    \n  }\n}",
+      "elixir": "defmodule Solution do\n  @spec combination_sum4(nums :: [integer], target :: integer) :: integer\n  def combination_sum4(nums, target) do\n    \n  end\nend",
+      "erlang": "-spec combination_sum4(Nums :: [integer()], Target :: integer()) -> integer().\ncombination_sum4(Nums, Target) ->\n  .",
+      "golang": "func combinationSum4(nums []int, target int) int {\n    \n}",
+      "java": "class Solution {\n    public int combinationSum4(int[] nums, int target) {\n        \n    }\n}",
+      "javascript": "/**\n * @param {number[]} nums\n * @param {number} target\n * @return {number}\n */\nvar combinationSum4 = function(nums, target) {\n    \n};",
+      "kotlin": "class Solution {\n    fun combinationSum4(nums: IntArray, target: Int): Int {\n        \n    }\n}",
+      "php": "class Solution {\n\n    /**\n     * @param Integer[] $nums\n     * @param Integer $target\n     * @return Integer\n     */\n    function combinationSum4($nums, $target) {\n        \n    }\n}",
+      "python": "class Solution(object):\n    def combinationSum4(self, nums, target):\n        \"\"\"\n        :type nums: List[int]\n        :type target: int\n        :rtype: int\n        \"\"\"\n        ",
+      "python3": "class Solution:\n    def combinationSum4(self, nums: List[int], target: int) -> int:\n        ",
+      "racket": "(define/contract (combination-sum4 nums target)\n  (-> (listof exact-integer?) exact-integer? exact-integer?)\n  )",
+      "ruby": "# @param {Integer[]} nums\n# @param {Integer} target\n# @return {Integer}\ndef combination_sum4(nums, target)\n    \nend",
+      "rust": "impl Solution {\n    pub fn combination_sum4(nums: Vec<i32>, target: i32) -> i32 {\n        \n    }\n}",
+      "scala": "object Solution {\n    def combinationSum4(nums: Array[Int], target: Int): Int = {\n        \n    }\n}",
+      "swift": "class Solution {\n    func combinationSum4(_ nums: [Int], _ target: Int) -> Int {\n        \n    }\n}",
+      "typescript": "function combinationSum4(nums: number[], target: number): number {\n    \n};"
+    },
+    "title": "Combination Sum IV"
+  },
+  "concatenation-of-array": {
+    "frontend_id": "1929",
+    "paid_only": false,
+    "question_id": "2058",
+    "snippets": {
+      "c": "/**\n * Note: The returned array must be malloced, assume caller calls free().\n */\nint* getConcatenation(int* nums, int numsSize, int* returnSize) {\n    \n}",
+      "cpp": "class Solution {\npublic:\n    vector<int> getConcatenation(vector<int>& nums) {\n        \n    }\n};",
+      "csharp": "public class Solution {\n    public int[] GetConcatenation(int[] nums) {\n        \n    }\n}",
+      "dart": "class Solution {\n  List<int> getConcatenation(List<int> nums) {\n    \n  }\n}",
+      "elixir": "defmodule Solution do\n  @spec get_concatenation(nums :: [integer]) :: [integer]\n  def get_concatenation(nums) do\n    \n  end\nend",
+      "erlang": "-spec get_concatenation(Nums :: [integer()]) -> [integer()].\nget_concatenation(Nums) ->\n  .",
+      "golang": "func getConcatenation(nums []int) []int {\n    \n}",
+      "java": "class Solution {\n    public int[] getConcatenation(int[] nums) {\n        \n    }\n}",
+      "javascript": "/**\n * @param {number[]} nums\n * @return {number[]}\n */\nvar getConcatenation = function(nums) {\n    \n};",
+      "kotlin": "class Solution {\n    fun getConcatenation(nums: IntArray): IntArray {\n        \n    }\n}",
+      "php": "class Solution {\n\n    /**\n     * @param Integer[] $nums\n     * @return Integer[]\n     */\n    function getConcatenation($nums) {\n        \n    }\n}",
+      "python": "class Solution(object):\n    def getConcatenation(self, nums):\n        \"\"\"\n        :type nums: List[int]\n        :rtype: List[int]\n        \"\"\"\n        ",
+      "python3": "class Solution:\n    def getConcatenation(self, nums: List[int]) -> List[int]:\n        ",
+      "racket": "(define/contract (get-concatenation nums)\n  (-> (listof exact-integer?) (listof exact-integer?))\n  )",
+      "ruby": "# @param {Integer[]} nums\n# @return {Integer[]}\ndef get_concatenation(nums)\n    \nend",
+      "rust": "impl Solution {\n    pub fn get_concatenation(nums: Vec<i32>) -> Vec<i32> {\n        \n    }\n}",
+      "scala": "object Solution {\n    def getConcatenation(nums: Array[Int]): Array[Int] = {\n        \n    }\n}",
+      "swift": "class Solution {\n    func getConcatenation(_ nums: [Int]) -> [Int] {\n        \n    }\n}",
+      "typescript": "function getConcatenation(nums: number[]): number[] {\n    \n};"
+    },
+    "title": "Concatenation of Array"
   },
   "container-with-most-water": {
     "frontend_id": "11",
@@ -479,6 +560,60 @@
       "typescript": "function numDecodings(s: string): number {\n    \n};"
     },
     "title": "Decode Ways"
+  },
+  "design-hashmap": {
+    "frontend_id": "706",
+    "paid_only": false,
+    "question_id": "817",
+    "snippets": {
+      "c": "\n\n\ntypedef struct {\n    \n} MyHashMap;\n\n\nMyHashMap* myHashMapCreate() {\n    \n}\n\nvoid myHashMapPut(MyHashMap* obj, int key, int value) {\n    \n}\n\nint myHashMapGet(MyHashMap* obj, int key) {\n    \n}\n\nvoid myHashMapRemove(MyHashMap* obj, int key) {\n    \n}\n\nvoid myHashMapFree(MyHashMap* obj) {\n    \n}\n\n/**\n * Your MyHashMap struct will be instantiated and called as such:\n * MyHashMap* obj = myHashMapCreate();\n * myHashMapPut(obj, key, value);\n \n * int param_2 = myHashMapGet(obj, key);\n \n * myHashMapRemove(obj, key);\n \n * myHashMapFree(obj);\n*/",
+      "cpp": "class MyHashMap {\npublic:\n    MyHashMap() {\n        \n    }\n    \n    void put(int key, int value) {\n        \n    }\n    \n    int get(int key) {\n        \n    }\n    \n    void remove(int key) {\n        \n    }\n};\n\n/**\n * Your MyHashMap object will be instantiated and called as such:\n * MyHashMap* obj = new MyHashMap();\n * obj->put(key,value);\n * int param_2 = obj->get(key);\n * obj->remove(key);\n */",
+      "csharp": "public class MyHashMap {\n\n    public MyHashMap() {\n        \n    }\n    \n    public void Put(int key, int value) {\n        \n    }\n    \n    public int Get(int key) {\n        \n    }\n    \n    public void Remove(int key) {\n        \n    }\n}\n\n/**\n * Your MyHashMap object will be instantiated and called as such:\n * MyHashMap obj = new MyHashMap();\n * obj.Put(key,value);\n * int param_2 = obj.Get(key);\n * obj.Remove(key);\n */",
+      "dart": "class MyHashMap {\n\n  MyHashMap() {\n    \n  }\n  \n  void put(int key, int value) {\n    \n  }\n  \n  int get(int key) {\n    \n  }\n  \n  void remove(int key) {\n    \n  }\n}\n\n/**\n * Your MyHashMap object will be instantiated and called as such:\n * MyHashMap obj = MyHashMap();\n * obj.put(key,value);\n * int param2 = obj.get(key);\n * obj.remove(key);\n */",
+      "elixir": "defmodule MyHashMap do\n  @spec init_() :: any\n  def init_() do\n    \n  end\n\n  @spec put(key :: integer, value :: integer) :: any\n  def put(key, value) do\n    \n  end\n\n  @spec get(key :: integer) :: integer\n  def get(key) do\n    \n  end\n\n  @spec remove(key :: integer) :: any\n  def remove(key) do\n    \n  end\nend\n\n# Your functions will be called as such:\n# MyHashMap.init_()\n# MyHashMap.put(key, value)\n# param_2 = MyHashMap.get(key)\n# MyHashMap.remove(key)\n\n# MyHashMap.init_ will be called before every test case, in which you can do some necessary initializations.",
+      "erlang": "-spec my_hash_map_init_() -> any().\nmy_hash_map_init_() ->\n  .\n\n-spec my_hash_map_put(Key :: integer(), Value :: integer()) -> any().\nmy_hash_map_put(Key, Value) ->\n  .\n\n-spec my_hash_map_get(Key :: integer()) -> integer().\nmy_hash_map_get(Key) ->\n  .\n\n-spec my_hash_map_remove(Key :: integer()) -> any().\nmy_hash_map_remove(Key) ->\n  .\n\n\n%% Your functions will be called as such:\n%% my_hash_map_init_(),\n%% my_hash_map_put(Key, Value),\n%% Param_2 = my_hash_map_get(Key),\n%% my_hash_map_remove(Key),\n\n%% my_hash_map_init_ will be called before every test case, in which you can do some necessary initializations.",
+      "golang": "type MyHashMap struct {\n    \n}\n\n\nfunc Constructor() MyHashMap {\n    \n}\n\n\nfunc (this *MyHashMap) Put(key int, value int)  {\n    \n}\n\n\nfunc (this *MyHashMap) Get(key int) int {\n    \n}\n\n\nfunc (this *MyHashMap) Remove(key int)  {\n    \n}\n\n\n/**\n * Your MyHashMap object will be instantiated and called as such:\n * obj := Constructor();\n * obj.Put(key,value);\n * param_2 := obj.Get(key);\n * obj.Remove(key);\n */",
+      "java": "class MyHashMap {\n\n    public MyHashMap() {\n        \n    }\n    \n    public void put(int key, int value) {\n        \n    }\n    \n    public int get(int key) {\n        \n    }\n    \n    public void remove(int key) {\n        \n    }\n}\n\n/**\n * Your MyHashMap object will be instantiated and called as such:\n * MyHashMap obj = new MyHashMap();\n * obj.put(key,value);\n * int param_2 = obj.get(key);\n * obj.remove(key);\n */",
+      "javascript": "\nvar MyHashMap = function() {\n    \n};\n\n/** \n * @param {number} key \n * @param {number} value\n * @return {void}\n */\nMyHashMap.prototype.put = function(key, value) {\n    \n};\n\n/** \n * @param {number} key\n * @return {number}\n */\nMyHashMap.prototype.get = function(key) {\n    \n};\n\n/** \n * @param {number} key\n * @return {void}\n */\nMyHashMap.prototype.remove = function(key) {\n    \n};\n\n/** \n * Your MyHashMap object will be instantiated and called as such:\n * var obj = new MyHashMap()\n * obj.put(key,value)\n * var param_2 = obj.get(key)\n * obj.remove(key)\n */",
+      "kotlin": "class MyHashMap() {\n\n    fun put(key: Int, value: Int) {\n        \n    }\n\n    fun get(key: Int): Int {\n        \n    }\n\n    fun remove(key: Int) {\n        \n    }\n\n}\n\n/**\n * Your MyHashMap object will be instantiated and called as such:\n * var obj = MyHashMap()\n * obj.put(key,value)\n * var param_2 = obj.get(key)\n * obj.remove(key)\n */",
+      "php": "class MyHashMap {\n    /**\n     */\n    function __construct() {\n        \n    }\n  \n    /**\n     * @param Integer $key\n     * @param Integer $value\n     * @return NULL\n     */\n    function put($key, $value) {\n        \n    }\n  \n    /**\n     * @param Integer $key\n     * @return Integer\n     */\n    function get($key) {\n        \n    }\n  \n    /**\n     * @param Integer $key\n     * @return NULL\n     */\n    function remove($key) {\n        \n    }\n}\n\n/**\n * Your MyHashMap object will be instantiated and called as such:\n * $obj = MyHashMap();\n * $obj->put($key, $value);\n * $ret_2 = $obj->get($key);\n * $obj->remove($key);\n */",
+      "python": "class MyHashMap(object):\n\n    def __init__(self):\n        \n\n    def put(self, key, value):\n        \"\"\"\n        :type key: int\n        :type value: int\n        :rtype: None\n        \"\"\"\n        \n\n    def get(self, key):\n        \"\"\"\n        :type key: int\n        :rtype: int\n        \"\"\"\n        \n\n    def remove(self, key):\n        \"\"\"\n        :type key: int\n        :rtype: None\n        \"\"\"\n        \n\n\n# Your MyHashMap object will be instantiated and called as such:\n# obj = MyHashMap()\n# obj.put(key,value)\n# param_2 = obj.get(key)\n# obj.remove(key)",
+      "python3": "class MyHashMap:\n\n    def __init__(self):\n        \n\n    def put(self, key: int, value: int) -> None:\n        \n\n    def get(self, key: int) -> int:\n        \n\n    def remove(self, key: int) -> None:\n        \n\n\n# Your MyHashMap object will be instantiated and called as such:\n# obj = MyHashMap()\n# obj.put(key,value)\n# param_2 = obj.get(key)\n# obj.remove(key)",
+      "racket": "(define my-hash-map%\n  (class object%\n    (super-new)\n    \n    (init-field)\n    \n    ; put : exact-integer? exact-integer? -> void?\n    (define/public (put key value)\n      )\n    ; get : exact-integer? -> exact-integer?\n    (define/public (get key)\n      )\n    ; remove : exact-integer? -> void?\n    (define/public (remove key)\n      )))\n\n;; Your my-hash-map% object will be instantiated and called as such:\n;; (define obj (new my-hash-map%))\n;; (send obj put key value)\n;; (define param_2 (send obj get key))\n;; (send obj remove key)",
+      "ruby": "class MyHashMap\n    def initialize()\n        \n    end\n\n\n=begin\n    :type key: Integer\n    :type value: Integer\n    :rtype: Void\n=end\n    def put(key, value)\n        \n    end\n\n\n=begin\n    :type key: Integer\n    :rtype: Integer\n=end\n    def get(key)\n        \n    end\n\n\n=begin\n    :type key: Integer\n    :rtype: Void\n=end\n    def remove(key)\n        \n    end\n\n\nend\n\n# Your MyHashMap object will be instantiated and called as such:\n# obj = MyHashMap.new()\n# obj.put(key, value)\n# param_2 = obj.get(key)\n# obj.remove(key)",
+      "rust": "struct MyHashMap {\n\n}\n\n\n/** \n * `&self` means the method takes an immutable reference.\n * If you need a mutable reference, change it to `&mut self` instead.\n */\nimpl MyHashMap {\n\n    fn new() -> Self {\n        \n    }\n    \n    fn put(&self, key: i32, value: i32) {\n        \n    }\n    \n    fn get(&self, key: i32) -> i32 {\n        \n    }\n    \n    fn remove(&self, key: i32) {\n        \n    }\n}\n\n/**\n * Your MyHashMap object will be instantiated and called as such:\n * let obj = MyHashMap::new();\n * obj.put(key, value);\n * let ret_2: i32 = obj.get(key);\n * obj.remove(key);\n */",
+      "scala": "class MyHashMap() {\n\n    def put(key: Int, value: Int): Unit = {\n        \n    }\n\n    def get(key: Int): Int = {\n        \n    }\n\n    def remove(key: Int): Unit = {\n        \n    }\n\n}\n\n/**\n * Your MyHashMap object will be instantiated and called as such:\n * val obj = new MyHashMap()\n * obj.put(key,value)\n * val param_2 = obj.get(key)\n * obj.remove(key)\n */",
+      "swift": "\nclass MyHashMap {\n\n    init() {\n        \n    }\n    \n    func put(_ key: Int, _ value: Int) {\n        \n    }\n    \n    func get(_ key: Int) -> Int {\n        \n    }\n    \n    func remove(_ key: Int) {\n        \n    }\n}\n\n/**\n * Your MyHashMap object will be instantiated and called as such:\n * let obj = MyHashMap()\n * obj.put(key, value)\n * let ret_2: Int = obj.get(key)\n * obj.remove(key)\n */",
+      "typescript": "class MyHashMap {\n    constructor() {\n        \n    }\n\n    put(key: number, value: number): void {\n        \n    }\n\n    get(key: number): number {\n        \n    }\n\n    remove(key: number): void {\n        \n    }\n}\n\n/**\n * Your MyHashMap object will be instantiated and called as such:\n * var obj = new MyHashMap()\n * obj.put(key,value)\n * var param_2 = obj.get(key)\n * obj.remove(key)\n */"
+    },
+    "title": "Design HashMap"
+  },
+  "design-hashset": {
+    "frontend_id": "705",
+    "paid_only": false,
+    "question_id": "816",
+    "snippets": {
+      "c": "\n\n\ntypedef struct {\n    \n} MyHashSet;\n\n\nMyHashSet* myHashSetCreate() {\n    \n}\n\nvoid myHashSetAdd(MyHashSet* obj, int key) {\n    \n}\n\nvoid myHashSetRemove(MyHashSet* obj, int key) {\n    \n}\n\nbool myHashSetContains(MyHashSet* obj, int key) {\n    \n}\n\nvoid myHashSetFree(MyHashSet* obj) {\n    \n}\n\n/**\n * Your MyHashSet struct will be instantiated and called as such:\n * MyHashSet* obj = myHashSetCreate();\n * myHashSetAdd(obj, key);\n \n * myHashSetRemove(obj, key);\n \n * bool param_3 = myHashSetContains(obj, key);\n \n * myHashSetFree(obj);\n*/",
+      "cpp": "class MyHashSet {\npublic:\n    MyHashSet() {\n        \n    }\n    \n    void add(int key) {\n        \n    }\n    \n    void remove(int key) {\n        \n    }\n    \n    bool contains(int key) {\n        \n    }\n};\n\n/**\n * Your MyHashSet object will be instantiated and called as such:\n * MyHashSet* obj = new MyHashSet();\n * obj->add(key);\n * obj->remove(key);\n * bool param_3 = obj->contains(key);\n */",
+      "csharp": "public class MyHashSet {\n\n    public MyHashSet() {\n        \n    }\n    \n    public void Add(int key) {\n        \n    }\n    \n    public void Remove(int key) {\n        \n    }\n    \n    public bool Contains(int key) {\n        \n    }\n}\n\n/**\n * Your MyHashSet object will be instantiated and called as such:\n * MyHashSet obj = new MyHashSet();\n * obj.Add(key);\n * obj.Remove(key);\n * bool param_3 = obj.Contains(key);\n */",
+      "dart": "class MyHashSet {\n\n  MyHashSet() {\n    \n  }\n  \n  void add(int key) {\n    \n  }\n  \n  void remove(int key) {\n    \n  }\n  \n  bool contains(int key) {\n    \n  }\n}\n\n/**\n * Your MyHashSet object will be instantiated and called as such:\n * MyHashSet obj = MyHashSet();\n * obj.add(key);\n * obj.remove(key);\n * bool param3 = obj.contains(key);\n */",
+      "elixir": "defmodule MyHashSet do\n  @spec init_() :: any\n  def init_() do\n    \n  end\n\n  @spec add(key :: integer) :: any\n  def add(key) do\n    \n  end\n\n  @spec remove(key :: integer) :: any\n  def remove(key) do\n    \n  end\n\n  @spec contains(key :: integer) :: boolean\n  def contains(key) do\n    \n  end\nend\n\n# Your functions will be called as such:\n# MyHashSet.init_()\n# MyHashSet.add(key)\n# MyHashSet.remove(key)\n# param_3 = MyHashSet.contains(key)\n\n# MyHashSet.init_ will be called before every test case, in which you can do some necessary initializations.",
+      "erlang": "-spec my_hash_set_init_() -> any().\nmy_hash_set_init_() ->\n  .\n\n-spec my_hash_set_add(Key :: integer()) -> any().\nmy_hash_set_add(Key) ->\n  .\n\n-spec my_hash_set_remove(Key :: integer()) -> any().\nmy_hash_set_remove(Key) ->\n  .\n\n-spec my_hash_set_contains(Key :: integer()) -> boolean().\nmy_hash_set_contains(Key) ->\n  .\n\n\n%% Your functions will be called as such:\n%% my_hash_set_init_(),\n%% my_hash_set_add(Key),\n%% my_hash_set_remove(Key),\n%% Param_3 = my_hash_set_contains(Key),\n\n%% my_hash_set_init_ will be called before every test case, in which you can do some necessary initializations.",
+      "golang": "type MyHashSet struct {\n    \n}\n\n\nfunc Constructor() MyHashSet {\n    \n}\n\n\nfunc (this *MyHashSet) Add(key int)  {\n    \n}\n\n\nfunc (this *MyHashSet) Remove(key int)  {\n    \n}\n\n\nfunc (this *MyHashSet) Contains(key int) bool {\n    \n}\n\n\n/**\n * Your MyHashSet object will be instantiated and called as such:\n * obj := Constructor();\n * obj.Add(key);\n * obj.Remove(key);\n * param_3 := obj.Contains(key);\n */",
+      "java": "class MyHashSet {\n\n    public MyHashSet() {\n        \n    }\n    \n    public void add(int key) {\n        \n    }\n    \n    public void remove(int key) {\n        \n    }\n    \n    public boolean contains(int key) {\n        \n    }\n}\n\n/**\n * Your MyHashSet object will be instantiated and called as such:\n * MyHashSet obj = new MyHashSet();\n * obj.add(key);\n * obj.remove(key);\n * boolean param_3 = obj.contains(key);\n */",
+      "javascript": "\nvar MyHashSet = function() {\n    \n};\n\n/** \n * @param {number} key\n * @return {void}\n */\nMyHashSet.prototype.add = function(key) {\n    \n};\n\n/** \n * @param {number} key\n * @return {void}\n */\nMyHashSet.prototype.remove = function(key) {\n    \n};\n\n/** \n * @param {number} key\n * @return {boolean}\n */\nMyHashSet.prototype.contains = function(key) {\n    \n};\n\n/** \n * Your MyHashSet object will be instantiated and called as such:\n * var obj = new MyHashSet()\n * obj.add(key)\n * obj.remove(key)\n * var param_3 = obj.contains(key)\n */",
+      "kotlin": "class MyHashSet() {\n\n    fun add(key: Int) {\n        \n    }\n\n    fun remove(key: Int) {\n        \n    }\n\n    fun contains(key: Int): Boolean {\n        \n    }\n\n}\n\n/**\n * Your MyHashSet object will be instantiated and called as such:\n * var obj = MyHashSet()\n * obj.add(key)\n * obj.remove(key)\n * var param_3 = obj.contains(key)\n */",
+      "php": "class MyHashSet {\n    /**\n     */\n    function __construct() {\n        \n    }\n  \n    /**\n     * @param Integer $key\n     * @return NULL\n     */\n    function add($key) {\n        \n    }\n  \n    /**\n     * @param Integer $key\n     * @return NULL\n     */\n    function remove($key) {\n        \n    }\n  \n    /**\n     * @param Integer $key\n     * @return Boolean\n     */\n    function contains($key) {\n        \n    }\n}\n\n/**\n * Your MyHashSet object will be instantiated and called as such:\n * $obj = MyHashSet();\n * $obj->add($key);\n * $obj->remove($key);\n * $ret_3 = $obj->contains($key);\n */",
+      "python": "class MyHashSet(object):\n\n    def __init__(self):\n        \n\n    def add(self, key):\n        \"\"\"\n        :type key: int\n        :rtype: None\n        \"\"\"\n        \n\n    def remove(self, key):\n        \"\"\"\n        :type key: int\n        :rtype: None\n        \"\"\"\n        \n\n    def contains(self, key):\n        \"\"\"\n        :type key: int\n        :rtype: bool\n        \"\"\"\n        \n\n\n# Your MyHashSet object will be instantiated and called as such:\n# obj = MyHashSet()\n# obj.add(key)\n# obj.remove(key)\n# param_3 = obj.contains(key)",
+      "python3": "class MyHashSet:\n\n    def __init__(self):\n        \n\n    def add(self, key: int) -> None:\n        \n\n    def remove(self, key: int) -> None:\n        \n\n    def contains(self, key: int) -> bool:\n        \n\n\n# Your MyHashSet object will be instantiated and called as such:\n# obj = MyHashSet()\n# obj.add(key)\n# obj.remove(key)\n# param_3 = obj.contains(key)",
+      "racket": "(define my-hash-set%\n  (class object%\n    (super-new)\n    \n    (init-field)\n    \n    ; add : exact-integer? -> void?\n    (define/public (add key)\n      )\n    ; remove : exact-integer? -> void?\n    (define/public (remove key)\n      )\n    ; contains : exact-integer? -> boolean?\n    (define/public (contains key)\n      )))\n\n;; Your my-hash-set% object will be instantiated and called as such:\n;; (define obj (new my-hash-set%))\n;; (send obj add key)\n;; (send obj remove key)\n;; (define param_3 (send obj contains key))",
+      "ruby": "class MyHashSet\n    def initialize()\n        \n    end\n\n\n=begin\n    :type key: Integer\n    :rtype: Void\n=end\n    def add(key)\n        \n    end\n\n\n=begin\n    :type key: Integer\n    :rtype: Void\n=end\n    def remove(key)\n        \n    end\n\n\n=begin\n    :type key: Integer\n    :rtype: Boolean\n=end\n    def contains(key)\n        \n    end\n\n\nend\n\n# Your MyHashSet object will be instantiated and called as such:\n# obj = MyHashSet.new()\n# obj.add(key)\n# obj.remove(key)\n# param_3 = obj.contains(key)",
+      "rust": "struct MyHashSet {\n\n}\n\n\n/** \n * `&self` means the method takes an immutable reference.\n * If you need a mutable reference, change it to `&mut self` instead.\n */\nimpl MyHashSet {\n\n    fn new() -> Self {\n        \n    }\n    \n    fn add(&self, key: i32) {\n        \n    }\n    \n    fn remove(&self, key: i32) {\n        \n    }\n    \n    fn contains(&self, key: i32) -> bool {\n        \n    }\n}\n\n/**\n * Your MyHashSet object will be instantiated and called as such:\n * let obj = MyHashSet::new();\n * obj.add(key);\n * obj.remove(key);\n * let ret_3: bool = obj.contains(key);\n */",
+      "scala": "class MyHashSet() {\n\n    def add(key: Int): Unit = {\n        \n    }\n\n    def remove(key: Int): Unit = {\n        \n    }\n\n    def contains(key: Int): Boolean = {\n        \n    }\n\n}\n\n/**\n * Your MyHashSet object will be instantiated and called as such:\n * val obj = new MyHashSet()\n * obj.add(key)\n * obj.remove(key)\n * val param_3 = obj.contains(key)\n */",
+      "swift": "\nclass MyHashSet {\n\n    init() {\n        \n    }\n    \n    func add(_ key: Int) {\n        \n    }\n    \n    func remove(_ key: Int) {\n        \n    }\n    \n    func contains(_ key: Int) -> Bool {\n        \n    }\n}\n\n/**\n * Your MyHashSet object will be instantiated and called as such:\n * let obj = MyHashSet()\n * obj.add(key)\n * obj.remove(key)\n * let ret_3: Bool = obj.contains(key)\n */",
+      "typescript": "class MyHashSet {\n    constructor() {\n        \n    }\n\n    add(key: number): void {\n        \n    }\n\n    remove(key: number): void {\n        \n    }\n\n    contains(key: number): boolean {\n        \n    }\n}\n\n/**\n * Your MyHashSet object will be instantiated and called as such:\n * var obj = new MyHashSet()\n * obj.add(key)\n * obj.remove(key)\n * var param_3 = obj.contains(key)\n */"
+    },
+    "title": "Design HashSet"
   },
   "design-twitter": {
     "frontend_id": "355",
@@ -1110,6 +1245,33 @@
     },
     "title": "Linked List Cycle"
   },
+  "longest-common-prefix": {
+    "frontend_id": "14",
+    "paid_only": false,
+    "question_id": "14",
+    "snippets": {
+      "c": "char* longestCommonPrefix(char** strs, int strsSize) {\n    \n}",
+      "cpp": "class Solution {\npublic:\n    string longestCommonPrefix(vector<string>& strs) {\n        \n    }\n};",
+      "csharp": "public class Solution {\n    public string LongestCommonPrefix(string[] strs) {\n        \n    }\n}",
+      "dart": "class Solution {\n  String longestCommonPrefix(List<String> strs) {\n    \n  }\n}",
+      "elixir": "defmodule Solution do\n  @spec longest_common_prefix(strs :: [String.t]) :: String.t\n  def longest_common_prefix(strs) do\n    \n  end\nend",
+      "erlang": "-spec longest_common_prefix(Strs :: [unicode:unicode_binary()]) -> unicode:unicode_binary().\nlongest_common_prefix(Strs) ->\n  .",
+      "golang": "func longestCommonPrefix(strs []string) string {\n    \n}",
+      "java": "class Solution {\n    public String longestCommonPrefix(String[] strs) {\n        \n    }\n}",
+      "javascript": "/**\n * @param {string[]} strs\n * @return {string}\n */\nvar longestCommonPrefix = function(strs) {\n    \n};",
+      "kotlin": "class Solution {\n    fun longestCommonPrefix(strs: Array<String>): String {\n        \n    }\n}",
+      "php": "class Solution {\n\n    /**\n     * @param String[] $strs\n     * @return String\n     */\n    function longestCommonPrefix($strs) {\n        \n    }\n}",
+      "python": "class Solution(object):\n    def longestCommonPrefix(self, strs):\n        \"\"\"\n        :type strs: List[str]\n        :rtype: str\n        \"\"\"\n        ",
+      "python3": "class Solution:\n    def longestCommonPrefix(self, strs: List[str]) -> str:\n        ",
+      "racket": "(define/contract (longest-common-prefix strs)\n  (-> (listof string?) string?)\n  )",
+      "ruby": "# @param {String[]} strs\n# @return {String}\ndef longest_common_prefix(strs)\n    \nend",
+      "rust": "impl Solution {\n    pub fn longest_common_prefix(strs: Vec<String>) -> String {\n        \n    }\n}",
+      "scala": "object Solution {\n    def longestCommonPrefix(strs: Array[String]): String = {\n        \n    }\n}",
+      "swift": "class Solution {\n    func longestCommonPrefix(_ strs: [String]) -> String {\n        \n    }\n}",
+      "typescript": "function longestCommonPrefix(strs: string[]): string {\n    \n};"
+    },
+    "title": "Longest Common Prefix"
+  },
   "longest-consecutive-sequence": {
     "frontend_id": "128",
     "paid_only": false,
@@ -1271,6 +1433,33 @@
       "typescript": "function maxTurbulenceSize(arr: number[]): number {\n    \n};"
     },
     "title": "Longest Turbulent Subarray"
+  },
+  "majority-element": {
+    "frontend_id": "169",
+    "paid_only": false,
+    "question_id": "169",
+    "snippets": {
+      "c": "int majorityElement(int* nums, int numsSize) {\n    \n}",
+      "cpp": "class Solution {\npublic:\n    int majorityElement(vector<int>& nums) {\n        \n    }\n};",
+      "csharp": "public class Solution {\n    public int MajorityElement(int[] nums) {\n        \n    }\n}",
+      "dart": "class Solution {\n  int majorityElement(List<int> nums) {\n    \n  }\n}",
+      "elixir": "defmodule Solution do\n  @spec majority_element(nums :: [integer]) :: integer\n  def majority_element(nums) do\n    \n  end\nend",
+      "erlang": "-spec majority_element(Nums :: [integer()]) -> integer().\nmajority_element(Nums) ->\n  .",
+      "golang": "func majorityElement(nums []int) int {\n    \n}",
+      "java": "class Solution {\n    public int majorityElement(int[] nums) {\n        \n    }\n}",
+      "javascript": "/**\n * @param {number[]} nums\n * @return {number}\n */\nvar majorityElement = function(nums) {\n    \n};",
+      "kotlin": "class Solution {\n    fun majorityElement(nums: IntArray): Int {\n        \n    }\n}",
+      "php": "class Solution {\n\n    /**\n     * @param Integer[] $nums\n     * @return Integer\n     */\n    function majorityElement($nums) {\n        \n    }\n}",
+      "python": "class Solution(object):\n    def majorityElement(self, nums):\n        \"\"\"\n        :type nums: List[int]\n        :rtype: int\n        \"\"\"\n        ",
+      "python3": "class Solution:\n    def majorityElement(self, nums: List[int]) -> int:\n        ",
+      "racket": "(define/contract (majority-element nums)\n  (-> (listof exact-integer?) exact-integer?)\n  )",
+      "ruby": "# @param {Integer[]} nums\n# @return {Integer}\ndef majority_element(nums)\n    \nend",
+      "rust": "impl Solution {\n    pub fn majority_element(nums: Vec<i32>) -> i32 {\n        \n    }\n}",
+      "scala": "object Solution {\n    def majorityElement(nums: Array[Int]): Int = {\n        \n    }\n}",
+      "swift": "class Solution {\n    func majorityElement(_ nums: [Int]) -> Int {\n        \n    }\n}",
+      "typescript": "function majorityElement(nums: number[]): number {\n    \n};"
+    },
+    "title": "Majority Element"
   },
   "max-area-of-island": {
     "frontend_id": "695",
@@ -1684,6 +1873,33 @@
     },
     "title": "Partition Labels"
   },
+  "perfect-squares": {
+    "frontend_id": "279",
+    "paid_only": false,
+    "question_id": "279",
+    "snippets": {
+      "c": "int numSquares(int n) {\n    \n}",
+      "cpp": "class Solution {\npublic:\n    int numSquares(int n) {\n        \n    }\n};",
+      "csharp": "public class Solution {\n    public int NumSquares(int n) {\n        \n    }\n}",
+      "dart": "class Solution {\n  int numSquares(int n) {\n    \n  }\n}",
+      "elixir": "defmodule Solution do\n  @spec num_squares(n :: integer) :: integer\n  def num_squares(n) do\n    \n  end\nend",
+      "erlang": "-spec num_squares(N :: integer()) -> integer().\nnum_squares(N) ->\n  .",
+      "golang": "func numSquares(n int) int {\n    \n}",
+      "java": "class Solution {\n    public int numSquares(int n) {\n        \n    }\n}",
+      "javascript": "/**\n * @param {number} n\n * @return {number}\n */\nvar numSquares = function(n) {\n    \n};",
+      "kotlin": "class Solution {\n    fun numSquares(n: Int): Int {\n        \n    }\n}",
+      "php": "class Solution {\n\n    /**\n     * @param Integer $n\n     * @return Integer\n     */\n    function numSquares($n) {\n        \n    }\n}",
+      "python": "class Solution(object):\n    def numSquares(self, n):\n        \"\"\"\n        :type n: int\n        :rtype: int\n        \"\"\"\n        ",
+      "python3": "class Solution:\n    def numSquares(self, n: int) -> int:\n        ",
+      "racket": "(define/contract (num-squares n)\n  (-> exact-integer? exact-integer?)\n  )",
+      "ruby": "# @param {Integer} n\n# @return {Integer}\ndef num_squares(n)\n    \nend",
+      "rust": "impl Solution {\n    pub fn num_squares(n: i32) -> i32 {\n        \n    }\n}",
+      "scala": "object Solution {\n    def numSquares(n: Int): Int = {\n        \n    }\n}",
+      "swift": "class Solution {\n    func numSquares(_ n: Int) -> Int {\n        \n    }\n}",
+      "typescript": "function numSquares(n: number): number {\n    \n};"
+    },
+    "title": "Perfect Squares"
+  },
   "permutation-in-string": {
     "frontend_id": "567",
     "paid_only": false,
@@ -1791,6 +2007,30 @@
       "typescript": "class NumArray {\n    constructor(nums: number[]) {\n        \n    }\n\n    sumRange(left: number, right: number): number {\n        \n    }\n}\n\n/**\n * Your NumArray object will be instantiated and called as such:\n * var obj = new NumArray(nums)\n * var param_1 = obj.sumRange(left,right)\n */"
     },
     "title": "Range Sum Query - Immutable"
+  },
+  "remove-element": {
+    "frontend_id": "27",
+    "paid_only": false,
+    "question_id": "27",
+    "snippets": {
+      "c": "int removeElement(int* nums, int numsSize, int val) {\n    \n}",
+      "cpp": "class Solution {\npublic:\n    int removeElement(vector<int>& nums, int val) {\n        \n    }\n};",
+      "csharp": "public class Solution {\n    public int RemoveElement(int[] nums, int val) {\n        \n    }\n}",
+      "dart": "class Solution {\n  int removeElement(List<int> nums, int val) {\n    \n  }\n}",
+      "golang": "func removeElement(nums []int, val int) int {\n    \n}",
+      "java": "class Solution {\n    public int removeElement(int[] nums, int val) {\n        \n    }\n}",
+      "javascript": "/**\n * @param {number[]} nums\n * @param {number} val\n * @return {number}\n */\nvar removeElement = function(nums, val) {\n    \n};",
+      "kotlin": "class Solution {\n    fun removeElement(nums: IntArray, `val`: Int): Int {\n        \n    }\n}",
+      "php": "class Solution {\n\n    /**\n     * @param Integer[] $nums\n     * @param Integer $val\n     * @return Integer\n     */\n    function removeElement(&$nums, $val) {\n        \n    }\n}",
+      "python": "class Solution(object):\n    def removeElement(self, nums, val):\n        \"\"\"\n        :type nums: List[int]\n        :type val: int\n        :rtype: int\n        \"\"\"\n        ",
+      "python3": "class Solution:\n    def removeElement(self, nums: List[int], val: int) -> int:\n        ",
+      "ruby": "# @param {Integer[]} nums\n# @param {Integer} val\n# @return {Integer}\ndef remove_element(nums, val)\n    \nend",
+      "rust": "impl Solution {\n    pub fn remove_element(nums: &mut Vec<i32>, val: i32) -> i32 {\n        \n    }\n}",
+      "scala": "object Solution {\n    def removeElement(nums: Array[Int], `val`: Int): Int = {\n        \n    }\n}",
+      "swift": "class Solution {\n    func removeElement(_ nums: inout [Int], _ val: Int) -> Int {\n        \n    }\n}",
+      "typescript": "function removeElement(nums: number[], val: number): number {\n    \n};"
+    },
+    "title": "Remove Element"
   },
   "remove-nth-node-from-end-of-list": {
     "frontend_id": "19",
