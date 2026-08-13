@@ -9,6 +9,16 @@
     "status": "Accepted",
     "submission_id": 2093211730
   },
+  "baseball-game": {
+    "at": "2026-08-13T05:29:44Z",
+    "file": "submission-0.py",
+    "leetcode_id": 682,
+    "leetcode_slug": "baseball-game",
+    "note": "verbatim",
+    "sha256": "67b353ee2b52e3039894a97ddabfa8a98d0d42a8c9a551595a5c18a76ed10851",
+    "status": "Accepted",
+    "submission_id": 2105002459
+  },
   "binary-search": {
     "at": "2026-08-03T20:36:45Z",
     "file": "submission-1.py",
