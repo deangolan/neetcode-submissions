@@ -99,6 +99,16 @@
     "status": "Accepted",
     "submission_id": 2093206877
   },
+  "coin-change-ii": {
+    "at": "2026-08-14T23:05:17Z",
+    "file": "submission-0.py",
+    "leetcode_id": 518,
+    "leetcode_slug": "coin-change-ii",
+    "note": "verbatim",
+    "sha256": "b58d355c1f0df74d3534af55552f4f0faaf8fcb973a9fcd632ee8489d9affd89",
+    "status": "Accepted",
+    "submission_id": 2107097296
+  },
   "combination-sum-iv": {
     "at": "2026-08-13T05:21:13Z",
     "file": "submission-2.py",
