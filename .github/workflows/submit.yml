@@ -61,17 +61,43 @@ jobs:
         with:
           python-version: "3.11"
 
+      # neetcode-map.json ships inside the pinned submodule, so it only learns
+      # about a new NeetCode problem when someone updates the pin by hand. That
+      # is how count-paths, binary-subarrays-with-sum, max-consecutive-ones-iii
+      # and subarray-product-less-than-k sat unsubmitted for eleven days.
+      #
+      # Resolving into the runner's copy fixes the common case on its own: a
+      # NeetCode slug that is already a LeetCode slug resolves exactly, needs no
+      # judgement, and now syncs the same day. The result is deliberately NOT
+      # committed -- the deploy key above is read-only, and a `fuzzy` guess must
+      # not reach the record without a human. Those still fail the run below.
+      - name: Map any new NeetCode slugs
+        run: python3 nc2lc/neetcode_map.py build --from-dir .
+
       # --nc . is this repository: submit.py reads the solution folders here and
       # writes its record to .nc2lc/ here, never inside the pinned submodule.
+      #
+      # --strict-map exits non-zero when a solution has no usable map row, after
+      # submitting everything that does have one. Without it the only trace is a
+      # single `skip` line among a hundred, in a log a green run never prompts
+      # anyone to open. Clear a failure by confirming the row in
+      # neetcode-to-leetcode and bumping the submodule pin here:
+      #   ./nc2lc/neetcode_map.py review
+      #   ./nc2lc/neetcode_map.py confirm <nc-slug>   # or: set <nc-slug> <lc-id>
       - name: Submit to LeetCode
         env:
           LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
-        run: python3 nc2lc/submit.py sync --nc . --limit 10
+        run: python3 nc2lc/submit.py sync --nc . --limit 10 --strict-map
 
       # Committing .nc2lc/synced.json is what stops the next run resubmitting
       # everything. If it fails to push, the work is not lost -- submit.py also
       # skips anything LeetCode already reports as accepted.
+      #
+      # always(), because --strict-map fails the step above *after* the
+      # submissions have already happened. Skipping the record then would
+      # resubmit every one of them on the next run.
       - name: Commit the record
+        if: always()
         run: |
           git config user.name  "nc2lc[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
