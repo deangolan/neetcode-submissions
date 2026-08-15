@@ -134,6 +134,33 @@
     },
     "title": "Binary Search"
   },
+  "binary-subarrays-with-sum": {
+    "frontend_id": "930",
+    "paid_only": false,
+    "question_id": "966",
+    "snippets": {
+      "c": "int numSubarraysWithSum(int* nums, int numsSize, int goal) {\n    \n}",
+      "cpp": "class Solution {\npublic:\n    int numSubarraysWithSum(vector<int>& nums, int goal) {\n        \n    }\n};",
+      "csharp": "public class Solution {\n    public int NumSubarraysWithSum(int[] nums, int goal) {\n        \n    }\n}",
+      "dart": "class Solution {\n  int numSubarraysWithSum(List<int> nums, int goal) {\n    \n  }\n}",
+      "elixir": "defmodule Solution do\n  @spec num_subarrays_with_sum(nums :: [integer], goal :: integer) :: integer\n  def num_subarrays_with_sum(nums, goal) do\n    \n  end\nend",
+      "erlang": "-spec num_subarrays_with_sum(Nums :: [integer()], Goal :: integer()) -> integer().\nnum_subarrays_with_sum(Nums, Goal) ->\n  .",
+      "golang": "func numSubarraysWithSum(nums []int, goal int) int {\n    \n}",
+      "java": "class Solution {\n    public int numSubarraysWithSum(int[] nums, int goal) {\n        \n    }\n}",
+      "javascript": "/**\n * @param {number[]} nums\n * @param {number} goal\n * @return {number}\n */\nvar numSubarraysWithSum = function(nums, goal) {\n    \n};",
+      "kotlin": "class Solution {\n    fun numSubarraysWithSum(nums: IntArray, goal: Int): Int {\n        \n    }\n}",
+      "php": "class Solution {\n\n    /**\n     * @param Integer[] $nums\n     * @param Integer $goal\n     * @return Integer\n     */\n    function numSubarraysWithSum($nums, $goal) {\n        \n    }\n}",
+      "python": "class Solution(object):\n    def numSubarraysWithSum(self, nums, goal):\n        \"\"\"\n        :type nums: List[int]\n        :type goal: int\n        :rtype: int\n        \"\"\"\n        ",
+      "python3": "class Solution:\n    def numSubarraysWithSum(self, nums: List[int], goal: int) -> int:\n        ",
+      "racket": "(define/contract (num-subarrays-with-sum nums goal)\n  (-> (listof exact-integer?) exact-integer? exact-integer?)\n  )",
+      "ruby": "# @param {Integer[]} nums\n# @param {Integer} goal\n# @return {Integer}\ndef num_subarrays_with_sum(nums, goal)\n    \nend",
+      "rust": "impl Solution {\n    pub fn num_subarrays_with_sum(nums: Vec<i32>, goal: i32) -> i32 {\n        \n    }\n}",
+      "scala": "object Solution {\n    def numSubarraysWithSum(nums: Array[Int], goal: Int): Int = {\n        \n    }\n}",
+      "swift": "class Solution {\n    func numSubarraysWithSum(_ nums: [Int], _ goal: Int) -> Int {\n        \n    }\n}",
+      "typescript": "function numSubarraysWithSum(nums: number[], goal: number): number {\n    \n};"
+    },
+    "title": "Binary Subarrays With Sum"
+  },
   "binary-tree-inorder-traversal": {
     "frontend_id": "94",
     "paid_only": false,
@@ -1542,6 +1569,33 @@
     },
     "title": "Max Area of Island"
   },
+  "max-consecutive-ones-iii": {
+    "frontend_id": "1004",
+    "paid_only": false,
+    "question_id": "1046",
+    "snippets": {
+      "c": "int longestOnes(int* nums, int numsSize, int k) {\n    \n}",
+      "cpp": "class Solution {\npublic:\n    int longestOnes(vector<int>& nums, int k) {\n        \n    }\n};",
+      "csharp": "public class Solution {\n    public int LongestOnes(int[] nums, int k) {\n        \n    }\n}",
+      "dart": "class Solution {\n  int longestOnes(List<int> nums, int k) {\n    \n  }\n}",
+      "elixir": "defmodule Solution do\n  @spec longest_ones(nums :: [integer], k :: integer) :: integer\n  def longest_ones(nums, k) do\n    \n  end\nend",
+      "erlang": "-spec longest_ones(Nums :: [integer()], K :: integer()) -> integer().\nlongest_ones(Nums, K) ->\n  .",
+      "golang": "func longestOnes(nums []int, k int) int {\n    \n}",
+      "java": "class Solution {\n    public int longestOnes(int[] nums, int k) {\n        \n    }\n}",
+      "javascript": "/**\n * @param {number[]} nums\n * @param {number} k\n * @return {number}\n */\nvar longestOnes = function(nums, k) {\n    \n};",
+      "kotlin": "class Solution {\n    fun longestOnes(nums: IntArray, k: Int): Int {\n        \n    }\n}",
+      "php": "class Solution {\n\n    /**\n     * @param Integer[] $nums\n     * @param Integer $k\n     * @return Integer\n     */\n    function longestOnes($nums, $k) {\n        \n    }\n}",
+      "python": "class Solution(object):\n    def longestOnes(self, nums, k):\n        \"\"\"\n        :type nums: List[int]\n        :type k: int\n        :rtype: int\n        \"\"\"\n        ",
+      "python3": "class Solution:\n    def longestOnes(self, nums: List[int], k: int) -> int:\n        ",
+      "racket": "(define/contract (longest-ones nums k)\n  (-> (listof exact-integer?) exact-integer? exact-integer?)\n  )",
+      "ruby": "# @param {Integer[]} nums\n# @param {Integer} k\n# @return {Integer}\ndef longest_ones(nums, k)\n    \nend",
+      "rust": "impl Solution {\n    pub fn longest_ones(nums: Vec<i32>, k: i32) -> i32 {\n        \n    }\n}",
+      "scala": "object Solution {\n    def longestOnes(nums: Array[Int], k: Int): Int = {\n        \n    }\n}",
+      "swift": "class Solution {\n    func longestOnes(_ nums: [Int], _ k: Int) -> Int {\n        \n    }\n}",
+      "typescript": "function longestOnes(nums: number[], k: number): number {\n    \n};"
+    },
+    "title": "Max Consecutive Ones III"
+  },
   "maximum-depth-of-binary-tree": {
     "frontend_id": "104",
     "paid_only": false,
@@ -2329,6 +2383,33 @@
     },
     "title": "Sliding Window Maximum"
   },
+  "subarray-product-less-than-k": {
+    "frontend_id": "713",
+    "paid_only": false,
+    "question_id": "713",
+    "snippets": {
+      "c": "int numSubarrayProductLessThanK(int* nums, int numsSize, int k) {\n    \n}",
+      "cpp": "class Solution {\npublic:\n    int numSubarrayProductLessThanK(vector<int>& nums, int k) {\n        \n    }\n};",
+      "csharp": "public class Solution {\n    public int NumSubarrayProductLessThanK(int[] nums, int k) {\n        \n    }\n}",
+      "dart": "class Solution {\n  int numSubarrayProductLessThanK(List<int> nums, int k) {\n    \n  }\n}",
+      "elixir": "defmodule Solution do\n  @spec num_subarray_product_less_than_k(nums :: [integer], k :: integer) :: integer\n  def num_subarray_product_less_than_k(nums, k) do\n    \n  end\nend",
+      "erlang": "-spec num_subarray_product_less_than_k(Nums :: [integer()], K :: integer()) -> integer().\nnum_subarray_product_less_than_k(Nums, K) ->\n  .",
+      "golang": "func numSubarrayProductLessThanK(nums []int, k int) int {\n    \n}",
+      "java": "class Solution {\n    public int numSubarrayProductLessThanK(int[] nums, int k) {\n        \n    }\n}",
+      "javascript": "/**\n * @param {number[]} nums\n * @param {number} k\n * @return {number}\n */\nvar numSubarrayProductLessThanK = function(nums, k) {\n    \n};",
+      "kotlin": "class Solution {\n    fun numSubarrayProductLessThanK(nums: IntArray, k: Int): Int {\n        \n    }\n}",
+      "php": "class Solution {\n\n    /**\n     * @param Integer[] $nums\n     * @param Integer $k\n     * @return Integer\n     */\n    function numSubarrayProductLessThanK($nums, $k) {\n        \n    }\n}",
+      "python": "class Solution(object):\n    def numSubarrayProductLessThanK(self, nums, k):\n        \"\"\"\n        :type nums: List[int]\n        :type k: int\n        :rtype: int\n        \"\"\"\n        ",
+      "python3": "class Solution:\n    def numSubarrayProductLessThanK(self, nums: List[int], k: int) -> int:\n        ",
+      "racket": "(define/contract (num-subarray-product-less-than-k nums k)\n  (-> (listof exact-integer?) exact-integer? exact-integer?)\n  )",
+      "ruby": "# @param {Integer[]} nums\n# @param {Integer} k\n# @return {Integer}\ndef num_subarray_product_less_than_k(nums, k)\n    \nend",
+      "rust": "impl Solution {\n    pub fn num_subarray_product_less_than_k(nums: Vec<i32>, k: i32) -> i32 {\n        \n    }\n}",
+      "scala": "object Solution {\n    def numSubarrayProductLessThanK(nums: Array[Int], k: Int): Int = {\n        \n    }\n}",
+      "swift": "class Solution {\n    func numSubarrayProductLessThanK(_ nums: [Int], _ k: Int) -> Int {\n        \n    }\n}",
+      "typescript": "function numSubarrayProductLessThanK(nums: number[], k: number): number {\n    \n};"
+    },
+    "title": "Subarray Product Less Than K"
+  },
   "subarray-sum-equals-k": {
     "frontend_id": "560",
     "paid_only": false,
@@ -2568,6 +2649,33 @@
       "typescript": "function twoSum(numbers: number[], target: number): number[] {\n    \n};"
     },
     "title": "Two Sum II - Input Array Is Sorted"
+  },
+  "unique-paths": {
+    "frontend_id": "62",
+    "paid_only": false,
+    "question_id": "62",
+    "snippets": {
+      "c": "int uniquePaths(int m, int n) {\n    \n}",
+      "cpp": "class Solution {\npublic:\n    int uniquePaths(int m, int n) {\n        \n    }\n};",
+      "csharp": "public class Solution {\n    public int UniquePaths(int m, int n) {\n        \n    }\n}",
+      "dart": "class Solution {\n  int uniquePaths(int m, int n) {\n    \n  }\n}",
+      "elixir": "defmodule Solution do\n  @spec unique_paths(m :: integer, n :: integer) :: integer\n  def unique_paths(m, n) do\n    \n  end\nend",
+      "erlang": "-spec unique_paths(M :: integer(), N :: integer()) -> integer().\nunique_paths(M, N) ->\n  .",
+      "golang": "func uniquePaths(m int, n int) int {\n    \n}",
+      "java": "class Solution {\n    public int uniquePaths(int m, int n) {\n        \n    }\n}",
+      "javascript": "/**\n * @param {number} m\n * @param {number} n\n * @return {number}\n */\nvar uniquePaths = function(m, n) {\n    \n};",
+      "kotlin": "class Solution {\n    fun uniquePaths(m: Int, n: Int): Int {\n        \n    }\n}",
+      "php": "class Solution {\n\n    /**\n     * @param Integer $m\n     * @param Integer $n\n     * @return Integer\n     */\n    function uniquePaths($m, $n) {\n        \n    }\n}",
+      "python": "class Solution(object):\n    def uniquePaths(self, m, n):\n        \"\"\"\n        :type m: int\n        :type n: int\n        :rtype: int\n        \"\"\"\n        ",
+      "python3": "class Solution:\n    def uniquePaths(self, m: int, n: int) -> int:\n        ",
+      "racket": "(define/contract (unique-paths m n)\n  (-> exact-integer? exact-integer? exact-integer?)\n  )",
+      "ruby": "# @param {Integer} m\n# @param {Integer} n\n# @return {Integer}\ndef unique_paths(m, n)\n    \nend",
+      "rust": "impl Solution {\n    pub fn unique_paths(m: i32, n: i32) -> i32 {\n        \n    }\n}",
+      "scala": "object Solution {\n    def uniquePaths(m: Int, n: Int): Int = {\n        \n    }\n}",
+      "swift": "class Solution {\n    func uniquePaths(_ m: Int, _ n: Int) -> Int {\n        \n    }\n}",
+      "typescript": "function uniquePaths(m: number, n: number): number {\n    \n};"
+    },
+    "title": "Unique Paths"
   },
   "unique-paths-ii": {
     "frontend_id": "63",

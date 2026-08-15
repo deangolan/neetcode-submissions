@@ -29,6 +29,16 @@
     "status": "Accepted",
     "submission_id": 2093196974
   },
+  "binary-subarrays-with-sum": {
+    "at": "2026-08-15T03:38:40Z",
+    "file": "submission-1.py",
+    "leetcode_id": 930,
+    "leetcode_slug": "binary-subarrays-with-sum",
+    "note": "verbatim",
+    "sha256": "01b25441b605f1969bb3cc5b80a55388ab0e3d12bec2e4bc7c6707ae4fd72497",
+    "status": "Accepted",
+    "submission_id": 2107175677
+  },
   "binary-tree-diameter": {
     "at": "2026-08-03T20:37:33Z",
     "file": "submission-0.py",
@@ -138,6 +148,16 @@
     "sha256": "af1a856cd6ebf451e7f5725b9ea950a24b8aaf0edc217f59f2c889e12a61bdd9",
     "status": "Accepted",
     "submission_id": 2093207267
+  },
+  "count-paths": {
+    "at": "2026-08-15T03:39:28Z",
+    "file": "submission-2.py",
+    "leetcode_id": 62,
+    "leetcode_slug": "unique-paths",
+    "note": "verbatim",
+    "sha256": "03328ce1ab78345de755a580cfd52374204e5d42316797c5ee58198eb8e6c75d",
+    "status": "Accepted",
+    "submission_id": 2107176058
   },
   "decode-ways": {
     "at": "2026-08-09T05:40:13Z",
@@ -429,6 +449,16 @@
     "status": "Accepted",
     "submission_id": 2093219577
   },
+  "max-consecutive-ones-iii": {
+    "at": "2026-08-15T03:40:16Z",
+    "file": "submission-1.py",
+    "leetcode_id": 1004,
+    "leetcode_slug": "max-consecutive-ones-iii",
+    "note": "verbatim",
+    "sha256": "1159d3a9f896957cc4c9782cc3fe6d32173e9a0562ccef9dd8382e17f9863816",
+    "status": "Accepted",
+    "submission_id": 2107176436
+  },
   "max-water-container": {
     "at": "2026-08-03T21:26:23Z",
     "file": "submission-0.py",
@@ -488,6 +518,16 @@
     "sha256": "05dc2ab5a6cfe5a22e6634b83f12ec698deef2d0ccfd2ce28089453d82082ff9",
     "status": "Accepted",
     "submission_id": 2093221419
+  },
+  "minimum-path-sum": {
+    "at": "2026-08-15T03:41:04Z",
+    "file": "submission-1.py",
+    "leetcode_id": 64,
+    "leetcode_slug": "minimum-path-sum",
+    "note": "verbatim",
+    "sha256": "4b2aab906ad75918e9ba1144958a9b1a8aae32e53dd205a2e52b7468fa178b90",
+    "status": "Accepted",
+    "submission_id": 2107176847
   },
   "minimum-stack": {
     "at": "2026-08-03T21:31:07Z",
@@ -608,6 +648,16 @@
     "sha256": "e27bd7794d19c807ebced85cc4a594f369619ba1046637d4b5a3dece1c069210",
     "status": "Accepted",
     "submission_id": 2093224552
+  },
+  "subarray-product-less-than-k": {
+    "at": "2026-08-15T03:41:52Z",
+    "file": "submission-0.py",
+    "leetcode_id": 713,
+    "leetcode_slug": "subarray-product-less-than-k",
+    "note": "verbatim",
+    "sha256": "b36e932628e150aeda5ca73abb585b4eced0555bdeaf7bc417df91bcb38c4f33",
+    "status": "Accepted",
+    "submission_id": 2107177195
   },
   "subtree-of-a-binary-tree": {
     "at": "2026-08-07T06:06:35Z",
