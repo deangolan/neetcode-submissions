@@ -340,6 +340,17 @@
     "status": "Accepted",
     "submission_id": 2107202494
   },
+  "daily-temperatures/submission-0.py": {
+    "at": "2026-08-15T05:18:38Z",
+    "file": "submission-0.py",
+    "leetcode_id": 739,
+    "leetcode_slug": "daily-temperatures",
+    "note": "verbatim",
+    "sha256": "4827bafeadff7974e43776db6c1d8137f8162baaf8305ecbcf9e357faa279856",
+    "slug": "daily-temperatures",
+    "status": "Accepted",
+    "submission_id": 2107240395
+  },
   "decode-ways/submission-0.py": {
     "at": "2026-08-09T05:40:13Z",
     "file": "submission-0.py",
@@ -350,6 +361,17 @@
     "slug": "decode-ways",
     "status": "Accepted",
     "submission_id": 2099941641
+  },
+  "depth-of-binary-tree/submission-0.py": {
+    "at": "2026-08-15T05:19:26Z",
+    "file": "submission-0.py",
+    "leetcode_id": 104,
+    "leetcode_slug": "maximum-depth-of-binary-tree",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "5dbbdad2f3ae021a2be7e328f8441f91f14cc36893714bfbf8830cf4bfdcc2ff",
+    "slug": "depth-of-binary-tree",
+    "status": "Accepted",
+    "submission_id": 2107241058
   },
   "design-hashmap/submission-0.py": {
     "at": "2026-08-13T05:22:50Z",
@@ -406,6 +428,17 @@
     "status": "Accepted",
     "submission_id": 2093208727
   },
+  "duplicate-integer/submission-2.py": {
+    "at": "2026-08-15T05:20:14Z",
+    "file": "submission-2.py",
+    "leetcode_id": 217,
+    "leetcode_slug": "contains-duplicate",
+    "note": "renamed hasDuplicate -> containsDuplicate",
+    "sha256": "c1452bc2ca7733bea2e82e048d91edf1d1038ab55162d8efad8559a9cd3b5a9d",
+    "slug": "duplicate-integer",
+    "status": "Accepted",
+    "submission_id": 2107241795
+  },
   "eating-bananas/submission-1.py": {
     "at": "2026-08-03T21:00:56Z",
     "file": "submission-1.py",
@@ -450,6 +483,17 @@
     "status": "Output Limit Exceeded",
     "submission_id": 2093212747
   },
+  "find-minimum-in-rotated-sorted-array/submission-0.py": {
+    "at": "2026-08-15T05:21:01Z",
+    "file": "submission-0.py",
+    "leetcode_id": 153,
+    "leetcode_slug": "find-minimum-in-rotated-sorted-array",
+    "note": "verbatim",
+    "sha256": "7abd5988597caa2d9416db3f3ec8dd8a980fe2ece21124151d1577839d898f47",
+    "slug": "find-minimum-in-rotated-sorted-array",
+    "status": "Accepted",
+    "submission_id": 2107242454
+  },
   "find-minimum-in-rotated-sorted-array/submission-2.py": {
     "at": "2026-08-03T21:10:20Z",
     "file": "submission-2.py",
@@ -460,6 +504,28 @@
     "slug": "find-minimum-in-rotated-sorted-array",
     "status": "Accepted",
     "submission_id": 2093213073
+  },
+  "find-peak-element/submission-2.py": {
+    "at": "2026-08-15T05:21:52Z",
+    "file": "submission-2.py",
+    "leetcode_id": 162,
+    "leetcode_slug": "find-peak-element",
+    "note": "verbatim",
+    "sha256": "4bd14c150ecdcfc045c6ac3f2257ec4d6395da5d4314fea64656ed1fffc5d3a6",
+    "slug": "find-peak-element",
+    "status": "Accepted",
+    "submission_id": 2107243142
+  },
+  "find-peak-element/submission-3.py": {
+    "at": "2026-08-15T05:22:39Z",
+    "file": "submission-3.py",
+    "leetcode_id": 162,
+    "leetcode_slug": "find-peak-element",
+    "note": "verbatim",
+    "sha256": "6e76320f78996c30513b231586d26871cc68d00ebd9ccea8121f8840c3eee5d9",
+    "slug": "find-peak-element",
+    "status": "Accepted",
+    "submission_id": 2107243898
   },
   "find-peak-element/submission-4.py": {
     "at": "2026-08-03T21:11:07Z",
