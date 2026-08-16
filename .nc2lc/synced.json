@@ -241,6 +241,17 @@
     "status": "Accepted",
     "submission_id": 2107197030
   },
+  "coin-change/submission-1.py": {
+    "at": "2026-08-16T05:18:05Z",
+    "file": "submission-1.py",
+    "leetcode_id": 322,
+    "leetcode_slug": "coin-change",
+    "note": "verbatim",
+    "sha256": "1d32fc537158ab536fe15ba727e3fdac4a41505494d1828790fe652fedf30a94",
+    "slug": "coin-change",
+    "status": "Accepted",
+    "submission_id": 2108561119
+  },
   "combination-sum-iv/submission-0.py": {
     "at": "2026-08-15T04:23:16Z",
     "file": "submission-0.py",
@@ -295,6 +306,17 @@
     "slug": "continuous-subarray-sum",
     "status": "Accepted",
     "submission_id": 2093207267
+  },
+  "count-paths/submission-1.py": {
+    "at": "2026-08-16T05:20:22Z",
+    "file": "submission-1.py",
+    "leetcode_id": 62,
+    "leetcode_slug": "unique-paths",
+    "note": "verbatim",
+    "sha256": "54325c6a2916241c5fa5f7bb47691facb24af0a9c691bd69f536ddb0ea287fe1",
+    "slug": "count-paths",
+    "status": "Accepted",
+    "submission_id": 2108563167
   },
   "count-paths/submission-2.py": {
     "at": "2026-08-15T03:39:28Z",
@@ -538,6 +560,17 @@
     "status": "Accepted",
     "submission_id": 2093213428
   },
+  "find-pivot-index/submission-0.py": {
+    "at": "2026-08-16T05:21:10Z",
+    "file": "submission-0.py",
+    "leetcode_id": 724,
+    "leetcode_slug": "find-pivot-index",
+    "note": "verbatim",
+    "sha256": "6181816074a3efa0a5b00e6c62d9c5a35b355895a687883b8147cbb538c07967",
+    "slug": "find-pivot-index",
+    "status": "Accepted",
+    "submission_id": 2108563839
+  },
   "find-target-in-rotated-sorted-array/submission-11.py": {
     "at": "2026-08-03T21:11:55Z",
     "file": "submission-11.py",
@@ -560,6 +593,28 @@
     "status": "Accepted",
     "submission_id": 2098678681
   },
+  "hand-of-straights/submission-1.py": {
+    "at": "2026-08-16T05:21:59Z",
+    "file": "submission-1.py",
+    "leetcode_id": 846,
+    "leetcode_slug": "hand-of-straights",
+    "note": "verbatim",
+    "sha256": "c5c859dec7a9e11b5156983ae41316255774a867b6fa561f296a73ab2bcaea67",
+    "slug": "hand-of-straights",
+    "status": "Accepted",
+    "submission_id": 2108564565
+  },
+  "hand-of-straights/submission-2.py": {
+    "at": "2026-08-16T05:22:47Z",
+    "file": "submission-2.py",
+    "leetcode_id": 846,
+    "leetcode_slug": "hand-of-straights",
+    "note": "verbatim",
+    "sha256": "c3b69365492d0aba6b7113f9ee8ca6e5ebf3dd6d55bf8bc666b95ce447a280c9",
+    "slug": "hand-of-straights",
+    "status": "Accepted",
+    "submission_id": 2108565327
+  },
   "hand-of-straights/submission-3.py": {
     "at": "2026-08-03T21:13:28Z",
     "file": "submission-3.py",
@@ -570,6 +625,39 @@
     "slug": "hand-of-straights",
     "status": "Accepted",
     "submission_id": 2093214544
+  },
+  "house-robber/submission-2.py": {
+    "at": "2026-08-16T05:23:35Z",
+    "file": "submission-2.py",
+    "leetcode_id": 198,
+    "leetcode_slug": "house-robber",
+    "note": "verbatim",
+    "sha256": "b2d10cd206363e4d75ce69375396cd47f4ff81d3a92157619a8f0b853d30ae7a",
+    "slug": "house-robber",
+    "status": "Wrong Answer",
+    "submission_id": 2108566024
+  },
+  "house-robber/submission-3.py": {
+    "at": "2026-08-16T05:24:22Z",
+    "file": "submission-3.py",
+    "leetcode_id": 198,
+    "leetcode_slug": "house-robber",
+    "note": "verbatim",
+    "sha256": "04483ebaa1554de9fc91eac92e895215e0def5a19068d5a0be47365ef961972e",
+    "slug": "house-robber",
+    "status": "Wrong Answer",
+    "submission_id": 2108566730
+  },
+  "house-robber/submission-4.py": {
+    "at": "2026-08-16T05:25:10Z",
+    "file": "submission-4.py",
+    "leetcode_id": 198,
+    "leetcode_slug": "house-robber",
+    "note": "verbatim",
+    "sha256": "1d06b711bcf8a5cd64f10d2184c13f895bbc842904d704eb48cd0a9cff3ee222",
+    "slug": "house-robber",
+    "status": "Accepted",
+    "submission_id": 2108567431
   },
   "is-anagram/submission-2.py": {
     "at": "2026-08-03T21:14:16Z",
