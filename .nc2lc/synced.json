@@ -659,6 +659,50 @@
     "status": "Accepted",
     "submission_id": 2108567431
   },
+  "house-robber/submission-6.py": {
+    "at": "2026-08-17T05:27:34Z",
+    "file": "submission-6.py",
+    "leetcode_id": 198,
+    "leetcode_slug": "house-robber",
+    "note": "verbatim",
+    "sha256": "76d422a209f378e185309274004c8d0a4e90dab977f335197cf631c1b5965fe1",
+    "slug": "house-robber",
+    "status": "Accepted",
+    "submission_id": 2109713084
+  },
+  "invert-a-binary-tree/submission-0.py": {
+    "at": "2026-08-17T05:28:23Z",
+    "file": "submission-0.py",
+    "leetcode_id": 226,
+    "leetcode_slug": "invert-binary-tree",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "29e79160eb76d2973c8c197478dcef886c7871218419d6065220350aff35a39a",
+    "slug": "invert-a-binary-tree",
+    "status": "Accepted",
+    "submission_id": 2109713929
+  },
+  "invert-a-binary-tree/submission-1.py": {
+    "at": "2026-08-17T05:29:11Z",
+    "file": "submission-1.py",
+    "leetcode_id": 226,
+    "leetcode_slug": "invert-binary-tree",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "799f360d6c813f361971c68d3a2509e16613ad1afcfd23b57268b5c181103a66",
+    "slug": "invert-a-binary-tree",
+    "status": "Accepted",
+    "submission_id": 2109714744
+  },
+  "is-anagram/submission-0.py": {
+    "at": "2026-08-17T05:30:00Z",
+    "file": "submission-0.py",
+    "leetcode_id": 242,
+    "leetcode_slug": "valid-anagram",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "649e561e8790eea3ebf8b8dd17218579ab77eba0f313efa48804cb0f64c6e33a",
+    "slug": "is-anagram",
+    "status": "Accepted",
+    "submission_id": 2109715576
+  },
   "is-anagram/submission-2.py": {
     "at": "2026-08-03T21:14:16Z",
     "file": "submission-2.py",
@@ -680,6 +724,17 @@
     "slug": "is-palindrome",
     "status": "Accepted",
     "submission_id": 2093215995
+  },
+  "is-palindrome/submission-4.py": {
+    "at": "2026-08-17T05:30:47Z",
+    "file": "submission-4.py",
+    "leetcode_id": 125,
+    "leetcode_slug": "valid-palindrome",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "46f15469e82eb51d61ab47b161078d4b21711db39ff8be431796bd22763abbe2",
+    "slug": "is-palindrome",
+    "status": "Accepted",
+    "submission_id": 2109716420
   },
   "island-perimeter/submission-0.py": {
     "at": "2026-08-07T06:05:46Z",
@@ -703,6 +758,17 @@
     "status": "Wrong Answer",
     "submission_id": 2093216950
   },
+  "jump-game/submission-0.py": {
+    "at": "2026-08-17T05:31:37Z",
+    "file": "submission-0.py",
+    "leetcode_id": 55,
+    "leetcode_slug": "jump-game",
+    "note": "verbatim",
+    "sha256": "1e741d4b44926141d615393d69298823a22650e2d206211dcaf8ff53044678d5",
+    "slug": "jump-game",
+    "status": "Accepted",
+    "submission_id": 2109717218
+  },
   "jump-game/submission-2.py": {
     "at": "2026-08-03T21:18:17Z",
     "file": "submission-2.py",
@@ -713,6 +779,28 @@
     "slug": "jump-game",
     "status": "Accepted",
     "submission_id": 2093216639
+  },
+  "k-closest-points-to-origin/submission-0.py": {
+    "at": "2026-08-17T05:32:25Z",
+    "file": "submission-0.py",
+    "leetcode_id": 973,
+    "leetcode_slug": "k-closest-points-to-origin",
+    "note": "verbatim",
+    "sha256": "032d96e41093ff69a2e88b95db9d996ef07d2ab2ca9e175dfea443ceffc78ce7",
+    "slug": "k-closest-points-to-origin",
+    "status": "Accepted",
+    "submission_id": 2109718079
+  },
+  "k-closest-points-to-origin/submission-1.py": {
+    "at": "2026-08-17T05:33:14Z",
+    "file": "submission-1.py",
+    "leetcode_id": 973,
+    "leetcode_slug": "k-closest-points-to-origin",
+    "note": "verbatim",
+    "sha256": "cd32bdc8c7f6f0f89a58cb8b96185763ec6f0b3e94382341e2b24472c7a24d7a",
+    "slug": "k-closest-points-to-origin",
+    "status": "Accepted",
+    "submission_id": 2109718878
   },
   "kth-largest-element-in-an-array/submission-2.py": {
     "at": "2026-08-03T21:19:53Z",
