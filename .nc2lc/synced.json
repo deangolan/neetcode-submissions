@@ -307,6 +307,17 @@
     "status": "Accepted",
     "submission_id": 2093207267
   },
+  "count-number-of-islands/submission-1.py": {
+    "at": "2026-08-18T05:19:11Z",
+    "file": "submission-1.py",
+    "leetcode_id": 200,
+    "leetcode_slug": "number-of-islands",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "1d71d0ce9414dcf8af180ef6725c27ab6025344c2199434f69f309c5bff9a8b6",
+    "slug": "count-number-of-islands",
+    "status": "Accepted",
+    "submission_id": 2110939282
+  },
   "count-paths/submission-1.py": {
     "at": "2026-08-16T05:20:22Z",
     "file": "submission-1.py",
@@ -824,6 +835,17 @@
     "status": "Accepted",
     "submission_id": 2093217598
   },
+  "last-stone-weight/submission-1.py": {
+    "at": "2026-08-18T05:22:14Z",
+    "file": "submission-1.py",
+    "leetcode_id": 1046,
+    "leetcode_slug": "last-stone-weight",
+    "note": "verbatim",
+    "sha256": "a5370b7f51c85b1f1d645cc3fa9ce04fca914b3632a65f0383c03a1853fe10ff",
+    "slug": "last-stone-weight",
+    "status": "Accepted",
+    "submission_id": 2110942816
+  },
   "last-stone-weight/submission-2.py": {
     "at": "2026-08-03T21:21:29Z",
     "file": "submission-2.py",
@@ -834,6 +856,17 @@
     "slug": "last-stone-weight",
     "status": "Accepted",
     "submission_id": 2093217901
+  },
+  "linked-list-cycle-detection/submission-1.py": {
+    "at": "2026-08-18T05:23:03Z",
+    "file": "submission-1.py",
+    "leetcode_id": 141,
+    "leetcode_slug": "linked-list-cycle",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "61633a542bc8d2a75e41a17eee4c12d0591ae9000c4bdf6c8cb3449f403d02f6",
+    "slug": "linked-list-cycle-detection",
+    "status": "Accepted",
+    "submission_id": 2110943774
   },
   "linked-list-cycle-detection/submission-3.py": {
     "at": "2026-08-03T21:22:19Z",
@@ -856,6 +889,39 @@
     "slug": "longest-common-prefix",
     "status": "Accepted",
     "submission_id": 2104996873
+  },
+  "longest-consecutive-sequence/submission-0.py": {
+    "at": "2026-08-18T05:24:02Z",
+    "file": "submission-0.py",
+    "leetcode_id": 128,
+    "leetcode_slug": "longest-consecutive-sequence",
+    "note": "verbatim",
+    "sha256": "38d7dce00fd318681ea3de82c605fff97937b33abf93ec3ee59561b562913329",
+    "slug": "longest-consecutive-sequence",
+    "status": "Time Limit Exceeded",
+    "submission_id": 2110944746
+  },
+  "longest-consecutive-sequence/submission-1.py": {
+    "at": "2026-08-18T05:24:50Z",
+    "file": "submission-1.py",
+    "leetcode_id": 128,
+    "leetcode_slug": "longest-consecutive-sequence",
+    "note": "verbatim",
+    "sha256": "7b4406fdba95adf7cfab608bb8caeaa7df2e961c4208256a92add37689b916ef",
+    "slug": "longest-consecutive-sequence",
+    "status": "Accepted",
+    "submission_id": 2110945925
+  },
+  "longest-increasing-subsequence/submission-0.py": {
+    "at": "2026-08-18T05:25:41Z",
+    "file": "submission-0.py",
+    "leetcode_id": 300,
+    "leetcode_slug": "longest-increasing-subsequence",
+    "note": "verbatim",
+    "sha256": "a7aa5c80e5377a79b2f155d33455bc51e02f91fe0206b77b20722e7a71952091",
+    "slug": "longest-increasing-subsequence",
+    "status": "Accepted",
+    "submission_id": 2110946816
   },
   "longest-increasing-subsequence/submission-1.py": {
     "at": "2026-08-03T21:23:10Z",
@@ -889,6 +955,17 @@
     "slug": "longest-repeating-substring-with-replacement",
     "status": "Accepted",
     "submission_id": 2093219247
+  },
+  "longest-substring-without-duplicates/submission-3.py": {
+    "at": "2026-08-18T05:26:29Z",
+    "file": "submission-3.py",
+    "leetcode_id": 3,
+    "leetcode_slug": "longest-substring-without-repeating-characters",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "c29fac63d550400fcf4cc1bb0ca21de37a06c08384c36976108facfcc355bc33",
+    "slug": "longest-substring-without-duplicates",
+    "status": "Accepted",
+    "submission_id": 2110947812
   },
   "longest-turbulent-subarray/submission-3.py": {
     "at": "2026-08-03T21:25:35Z",
