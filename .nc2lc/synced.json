@@ -318,6 +318,17 @@
     "status": "Accepted",
     "submission_id": 2110939282
   },
+  "count-number-of-islands/submission-2.py": {
+    "at": "2026-08-19T05:20:00Z",
+    "file": "submission-2.py",
+    "leetcode_id": 200,
+    "leetcode_slug": "number-of-islands",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "8de5b275ad639c7fb7989d348c4e872bef66651f0d4b0a225bde019e056d5e3c",
+    "slug": "count-number-of-islands",
+    "status": "Accepted",
+    "submission_id": 2112248800
+  },
   "count-paths/submission-1.py": {
     "at": "2026-08-16T05:20:22Z",
     "file": "submission-1.py",
@@ -967,6 +978,17 @@
     "status": "Accepted",
     "submission_id": 2110947812
   },
+  "longest-turbulent-subarray/submission-2.py": {
+    "at": "2026-08-19T05:22:20Z",
+    "file": "submission-2.py",
+    "leetcode_id": 978,
+    "leetcode_slug": "longest-turbulent-subarray",
+    "note": "verbatim",
+    "sha256": "cffac56819f2b2ba220e69c48f8cfa0ab98f51377c044e7343e4ad12ac60387f",
+    "slug": "longest-turbulent-subarray",
+    "status": "Accepted",
+    "submission_id": 2112251337
+  },
   "longest-turbulent-subarray/submission-3.py": {
     "at": "2026-08-03T21:25:35Z",
     "file": "submission-3.py",
@@ -977,6 +999,17 @@
     "slug": "longest-turbulent-subarray",
     "status": "Accepted",
     "submission_id": 2093219577
+  },
+  "majority-element/submission-0.py": {
+    "at": "2026-08-19T05:23:09Z",
+    "file": "submission-0.py",
+    "leetcode_id": 169,
+    "leetcode_slug": "majority-element",
+    "note": "verbatim",
+    "sha256": "12e50a29ffbddd9878aab2f791ee5f55cf5b45bbae4c878daf3f7282efab42f1",
+    "slug": "majority-element",
+    "status": "Accepted",
+    "submission_id": 2112252269
   },
   "max-consecutive-ones-iii/submission-1.py": {
     "at": "2026-08-15T03:40:16Z",
@@ -1011,6 +1044,17 @@
     "status": "Wrong Answer",
     "submission_id": 2095006587
   },
+  "maximum-subarray/submission-1.py": {
+    "at": "2026-08-19T05:24:41Z",
+    "file": "submission-1.py",
+    "leetcode_id": 53,
+    "leetcode_slug": "maximum-subarray",
+    "note": "verbatim",
+    "sha256": "44eb847f3fd996549e814be01ad1258bf44b9a73011078ec5d5fdb0c319e57ca",
+    "slug": "maximum-subarray",
+    "status": "Accepted",
+    "submission_id": 2112253872
+  },
   "maximum-subarray/submission-5.py": {
     "at": "2026-08-03T21:27:55Z",
     "file": "submission-5.py",
@@ -1021,6 +1065,17 @@
     "slug": "maximum-subarray",
     "status": "Accepted",
     "submission_id": 2093220520
+  },
+  "maximum-subarray/submission-7.py": {
+    "at": "2026-08-19T05:25:29Z",
+    "file": "submission-7.py",
+    "leetcode_id": 53,
+    "leetcode_slug": "maximum-subarray",
+    "note": "verbatim",
+    "sha256": "ec57a372c0135fea62660e7f79b2bb52b2d334d6a85c8390e24a7fb9a730763c",
+    "slug": "maximum-subarray",
+    "status": "Accepted",
+    "submission_id": 2112254724
   },
   "maximum-sum-circular-subarray/submission-1.py": {
     "at": "2026-08-03T21:28:43Z",
@@ -1033,6 +1088,17 @@
     "status": "Accepted",
     "submission_id": 2093220810
   },
+  "merge-triplets-to-form-target/submission-0.py": {
+    "at": "2026-08-19T05:26:17Z",
+    "file": "submission-0.py",
+    "leetcode_id": 1899,
+    "leetcode_slug": "merge-triplets-to-form-target-triplet",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "50e90f0d4ffc1f184dbf0dd790ed1bad80725db14376312d860cc03708d1ddd4",
+    "slug": "merge-triplets-to-form-target",
+    "status": "Accepted",
+    "submission_id": 2112255594
+  },
   "merge-triplets-to-form-target/submission-1.py": {
     "at": "2026-08-03T21:29:31Z",
     "file": "submission-1.py",
@@ -1043,6 +1109,17 @@
     "slug": "merge-triplets-to-form-target",
     "status": "Accepted",
     "submission_id": 2093221094
+  },
+  "merge-two-sorted-linked-lists/submission-0.py": {
+    "at": "2026-08-19T05:27:05Z",
+    "file": "submission-0.py",
+    "leetcode_id": 21,
+    "leetcode_slug": "merge-two-sorted-lists",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "30bda1d982f82cccd40e51d2f37aa996485b232c0d4958e45679a312e3f8e446",
+    "slug": "merge-two-sorted-linked-lists",
+    "status": "Accepted",
+    "submission_id": 2112256430
   },
   "min-cost-climbing-stairs/submission-0.py": {
     "at": "2026-08-03T21:30:18Z",
