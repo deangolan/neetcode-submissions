@@ -1385,6 +1385,17 @@
     "status": "Accepted",
     "submission_id": 2114427163
   },
+  "rotting-fruit/submission-0.py": {
+    "at": "2026-08-20T22:54:12Z",
+    "file": "submission-0.py",
+    "leetcode_id": 994,
+    "leetcode_slug": "rotting-oranges",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "111dee029ecf921743d5c842ec6bcdfa61e4e764b25e0e531601b8e2037baf20",
+    "slug": "rotting-fruit",
+    "status": "Accepted",
+    "submission_id": 2114487696
+  },
   "same-binary-tree/submission-0.py": {
     "at": "2026-08-03T21:36:57Z",
     "file": "submission-0.py",
