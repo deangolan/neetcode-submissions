@@ -824,6 +824,17 @@
     "status": "Accepted",
     "submission_id": 2109718878
   },
+  "kth-largest-element-in-an-array/submission-0.py": {
+    "at": "2026-08-20T20:16:35Z",
+    "file": "submission-0.py",
+    "leetcode_id": 215,
+    "leetcode_slug": "kth-largest-element-in-an-array",
+    "note": "verbatim",
+    "sha256": "61af39c381bce2f1dad8906a291d3fb9be0a2be2e78f8e06910ce38ad4b8af7d",
+    "slug": "kth-largest-element-in-an-array",
+    "status": "Accepted",
+    "submission_id": 2114426261
+  },
   "kth-largest-element-in-an-array/submission-1.py": {
     "at": "2026-08-20T05:21:55Z",
     "file": "submission-1.py",
@@ -1198,6 +1209,17 @@
     "status": "Time Limit Exceeded",
     "submission_id": 2093222031
   },
+  "online-stock-span/submission-0.py": {
+    "at": "2026-08-20T20:17:24Z",
+    "file": "submission-0.py",
+    "leetcode_id": 901,
+    "leetcode_slug": "online-stock-span",
+    "note": "verbatim",
+    "sha256": "a12c03a9ba28ed394b6ea47a6b1fd8fea428a14df2f22d8db454389fd1d4fdc5",
+    "slug": "online-stock-span",
+    "status": "Accepted",
+    "submission_id": 2114426706
+  },
   "pacific-atlantic-water-flow/submission-0.py": {
     "at": "2026-08-03T21:32:54Z",
     "file": "submission-0.py",
@@ -1341,6 +1363,17 @@
     "status": "Accepted",
     "submission_id": 2093223583
   },
+  "reverse-a-linked-list/submission-1.py": {
+    "at": "2026-08-20T20:18:11Z",
+    "file": "submission-1.py",
+    "leetcode_id": 206,
+    "leetcode_slug": "reverse-linked-list",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "6b56814484ac47cb966b97b7422d7be3ffd7b5250b50af4c71b100e9566718da",
+    "slug": "reverse-a-linked-list",
+    "status": "Accepted",
+    "submission_id": 2114427163
+  },
   "same-binary-tree/submission-0.py": {
     "at": "2026-08-03T21:36:57Z",
     "file": "submission-0.py",
@@ -1374,6 +1407,17 @@
     "status": "Accepted",
     "submission_id": 2093224552
   },
+  "sliding-window-maximum/submission-0.py": {
+    "at": "2026-08-20T20:19:56Z",
+    "file": "submission-0.py",
+    "leetcode_id": 239,
+    "leetcode_slug": "sliding-window-maximum",
+    "note": "verbatim",
+    "sha256": "f327bee87ac834fe64d5f62fa7d319b31d4b848863782f481a5ced11aa4273d8",
+    "slug": "sliding-window-maximum",
+    "status": "Time Limit Exceeded",
+    "submission_id": 2114428093
+  },
   "subarray-product-less-than-k/submission-0.py": {
     "at": "2026-08-15T03:41:52Z",
     "file": "submission-0.py",
@@ -1384,6 +1428,17 @@
     "slug": "subarray-product-less-than-k",
     "status": "Accepted",
     "submission_id": 2107177195
+  },
+  "subarray-sum-equals-k/submission-0.py": {
+    "at": "2026-08-20T20:20:43Z",
+    "file": "submission-0.py",
+    "leetcode_id": 560,
+    "leetcode_slug": "subarray-sum-equals-k",
+    "note": "verbatim",
+    "sha256": "789c3b0d8e5e7f3598fd9b3f19514b1ae2755055792e9e7a03013090d8cb7b1b",
+    "slug": "subarray-sum-equals-k",
+    "status": "Accepted",
+    "submission_id": 2114428749
   },
   "subtree-of-a-binary-tree/submission-2.py": {
     "at": "2026-08-07T06:06:35Z",
@@ -1451,6 +1506,17 @@
     "status": "Accepted",
     "submission_id": 2095008475
   },
+  "top-k-elements-in-list/submission-3.py": {
+    "at": "2026-08-20T20:21:31Z",
+    "file": "submission-3.py",
+    "leetcode_id": 347,
+    "leetcode_slug": "top-k-frequent-elements",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "a1b1e6c7149792d4cfd4dc87d81c349ec558a505a6f103716f0ab0fbca0919cf",
+    "slug": "top-k-elements-in-list",
+    "status": "Accepted",
+    "submission_id": 2114429180
+  },
   "trapping-rain-water/submission-1.py": {
     "at": "2026-08-03T21:44:01Z",
     "file": "submission-1.py",
@@ -1461,6 +1527,39 @@
     "slug": "trapping-rain-water",
     "status": "Accepted",
     "submission_id": 2093226511
+  },
+  "two-integer-sum-ii/submission-0.py": {
+    "at": "2026-08-20T20:23:07Z",
+    "file": "submission-0.py",
+    "leetcode_id": 167,
+    "leetcode_slug": "two-sum-ii-input-array-is-sorted",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "5decfd8de95e1c99a1179c5c3a916c834713b3094dbdaeb4a84051ccb652ce2b",
+    "slug": "two-integer-sum-ii",
+    "status": "Accepted",
+    "submission_id": 2114430079
+  },
+  "two-integer-sum/submission-0.py": {
+    "at": "2026-08-20T20:22:19Z",
+    "file": "submission-0.py",
+    "leetcode_id": 1,
+    "leetcode_slug": "two-sum",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "7eed93ceae81a4558a7111f24c513d06eb310f22bb6e8b8e84418aaaedaca866",
+    "slug": "two-integer-sum",
+    "status": "Accepted",
+    "submission_id": 2114429629
+  },
+  "unique-paths-ii/submission-1.py": {
+    "at": "2026-08-20T20:23:55Z",
+    "file": "submission-1.py",
+    "leetcode_id": 63,
+    "leetcode_slug": "unique-paths-ii",
+    "note": "verbatim",
+    "sha256": "da8f5e253798877479497a81686bbdbf8ca21f4f17a4fa69cf3dd208f99a58d6",
+    "slug": "unique-paths-ii",
+    "status": "Accepted",
+    "submission_id": 2114430557
   },
   "valid-parenthesis-string/submission-2.py": {
     "at": "2026-08-03T21:44:49Z",
