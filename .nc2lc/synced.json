@@ -824,6 +824,17 @@
     "status": "Accepted",
     "submission_id": 2109718878
   },
+  "kth-largest-element-in-an-array/submission-1.py": {
+    "at": "2026-08-20T05:21:55Z",
+    "file": "submission-1.py",
+    "leetcode_id": 215,
+    "leetcode_slug": "kth-largest-element-in-an-array",
+    "note": "verbatim",
+    "sha256": "3a3458a7ab3c90f3643ec00dc724e659ab4240d65818ac579b882b1516053e94",
+    "slug": "kth-largest-element-in-an-array",
+    "status": "Accepted",
+    "submission_id": 2113493815
+  },
   "kth-largest-element-in-an-array/submission-2.py": {
     "at": "2026-08-03T21:19:53Z",
     "file": "submission-2.py",
@@ -1011,6 +1022,17 @@
     "status": "Accepted",
     "submission_id": 2112252269
   },
+  "max-area-of-island/submission-0.py": {
+    "at": "2026-08-20T05:22:43Z",
+    "file": "submission-0.py",
+    "leetcode_id": 695,
+    "leetcode_slug": "max-area-of-island",
+    "note": "verbatim",
+    "sha256": "dd41391015a2d82761609aa61645c57c58ab0a1edad7bde340b389b16a2faf50",
+    "slug": "max-area-of-island",
+    "status": "Accepted",
+    "submission_id": 2113494695
+  },
   "max-consecutive-ones-iii/submission-1.py": {
     "at": "2026-08-15T03:40:16Z",
     "file": "submission-1.py",
@@ -1143,6 +1165,17 @@
     "status": "Accepted",
     "submission_id": 2107176847
   },
+  "minimum-size-subarray-sum/submission-1.py": {
+    "at": "2026-08-20T05:23:31Z",
+    "file": "submission-1.py",
+    "leetcode_id": 209,
+    "leetcode_slug": "minimum-size-subarray-sum",
+    "note": "verbatim",
+    "sha256": "20c5c5ca23598d7efe8eb56162e8475a0537a460ca2236971347016d0b555922",
+    "slug": "minimum-size-subarray-sum",
+    "status": "Accepted",
+    "submission_id": 2113495558
+  },
   "minimum-stack/submission-0.py": {
     "at": "2026-08-03T21:31:07Z",
     "file": "submission-0.py",
@@ -1176,6 +1209,17 @@
     "status": "Accepted",
     "submission_id": 2093222388
   },
+  "partition-equal-subset-sum/submission-0.py": {
+    "at": "2026-08-20T05:24:29Z",
+    "file": "submission-0.py",
+    "leetcode_id": 416,
+    "leetcode_slug": "partition-equal-subset-sum",
+    "note": "verbatim",
+    "sha256": "2250d39b0aef9b5e515221972460661312b6ee8ce52b46a9bf590e18f910e000",
+    "slug": "partition-equal-subset-sum",
+    "status": "Time Limit Exceeded",
+    "submission_id": 2113496477
+  },
   "partition-equal-subset-sum/submission-1.py": {
     "at": "2026-08-03T21:33:42Z",
     "file": "submission-1.py",
@@ -1186,6 +1230,17 @@
     "slug": "partition-equal-subset-sum",
     "status": "Accepted",
     "submission_id": 2093222669
+  },
+  "partition-labels/submission-1.py": {
+    "at": "2026-08-20T05:25:17Z",
+    "file": "submission-1.py",
+    "leetcode_id": 763,
+    "leetcode_slug": "partition-labels",
+    "note": "verbatim",
+    "sha256": "35112e00f82b9a1122f60e37525562fd2dcee2ec8f1a1b02966d8eec1aac20bb",
+    "slug": "partition-labels",
+    "status": "Accepted",
+    "submission_id": 2113497526
   },
   "perfect-squares/submission-2.py": {
     "at": "2026-08-13T05:25:17Z",
@@ -1198,6 +1253,17 @@
     "status": "Accepted",
     "submission_id": 2104997720
   },
+  "permutation-string/submission-0.py": {
+    "at": "2026-08-20T05:26:04Z",
+    "file": "submission-0.py",
+    "leetcode_id": 567,
+    "leetcode_slug": "permutation-in-string",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "7ddf187d9afece1fa263d7b6354621eeba482f641caccfe107bf962994fd4c58",
+    "slug": "permutation-string",
+    "status": "Accepted",
+    "submission_id": 2113498351
+  },
   "permutation-string/submission-1.py": {
     "at": "2026-08-03T21:34:30Z",
     "file": "submission-1.py",
@@ -1209,6 +1275,28 @@
     "status": "Accepted",
     "submission_id": 2093222974
   },
+  "products-of-array-discluding-self/submission-0.py": {
+    "at": "2026-08-20T05:26:53Z",
+    "file": "submission-0.py",
+    "leetcode_id": 238,
+    "leetcode_slug": "product-of-array-except-self",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "cbcabd786dbd318c227afbe4cc18e8e0d4dae6a6f027edac5138d382f20b4343",
+    "slug": "products-of-array-discluding-self",
+    "status": "Accepted",
+    "submission_id": 2113499225
+  },
+  "products-of-array-discluding-self/submission-1.py": {
+    "at": "2026-08-20T05:27:40Z",
+    "file": "submission-1.py",
+    "leetcode_id": 238,
+    "leetcode_slug": "product-of-array-except-self",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "3a7826efc5ea7441b16d05d4fbacd7995b8530135f1c81a16d214c1182d42c70",
+    "slug": "products-of-array-discluding-self",
+    "status": "Accepted",
+    "submission_id": 2113500087
+  },
   "random-pick-with-weight/submission-1.py": {
     "at": "2026-08-03T21:35:21Z",
     "file": "submission-1.py",
@@ -1219,6 +1307,17 @@
     "slug": "random-pick-with-weight",
     "status": "Memory Limit Exceeded",
     "submission_id": 2093223266
+  },
+  "range-sum-query-immutable/submission-0.py": {
+    "at": "2026-08-20T05:28:28Z",
+    "file": "submission-0.py",
+    "leetcode_id": 303,
+    "leetcode_slug": "range-sum-query-immutable",
+    "note": "verbatim",
+    "sha256": "6ff57a00a445d82e833ac4cec727173221074314abcd68890f5942b07beb5bbc",
+    "slug": "range-sum-query-immutable",
+    "status": "Accepted",
+    "submission_id": 2113500928
   },
   "remove-element/submission-0.py": {
     "at": "2026-08-13T05:26:05Z",
