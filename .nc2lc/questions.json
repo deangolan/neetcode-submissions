@@ -1927,6 +1927,33 @@
     },
     "title": "Number of Islands"
   },
+  "number-of-visible-people-in-a-queue": {
+    "frontend_id": "1944",
+    "paid_only": false,
+    "question_id": "1305",
+    "snippets": {
+      "c": "/**\n * Note: The returned array must be malloced, assume caller calls free().\n */\nint* canSeePersonsCount(int* heights, int heightsSize, int* returnSize) {\n    \n}",
+      "cpp": "class Solution {\npublic:\n    vector<int> canSeePersonsCount(vector<int>& heights) {\n        \n    }\n};",
+      "csharp": "public class Solution {\n    public int[] CanSeePersonsCount(int[] heights) {\n        \n    }\n}",
+      "dart": "class Solution {\n  List<int> canSeePersonsCount(List<int> heights) {\n    \n  }\n}",
+      "elixir": "defmodule Solution do\n  @spec can_see_persons_count(heights :: [integer]) :: [integer]\n  def can_see_persons_count(heights) do\n    \n  end\nend",
+      "erlang": "-spec can_see_persons_count(Heights :: [integer()]) -> [integer()].\ncan_see_persons_count(Heights) ->\n  .",
+      "golang": "func canSeePersonsCount(heights []int) []int {\n    \n}",
+      "java": "class Solution {\n    public int[] canSeePersonsCount(int[] heights) {\n        \n    }\n}",
+      "javascript": "/**\n * @param {number[]} heights\n * @return {number[]}\n */\nvar canSeePersonsCount = function(heights) {\n    \n};",
+      "kotlin": "class Solution {\n    fun canSeePersonsCount(heights: IntArray): IntArray {\n        \n    }\n}",
+      "php": "class Solution {\n\n    /**\n     * @param Integer[] $heights\n     * @return Integer[]\n     */\n    function canSeePersonsCount($heights) {\n        \n    }\n}",
+      "python": "class Solution(object):\n    def canSeePersonsCount(self, heights):\n        \"\"\"\n        :type heights: List[int]\n        :rtype: List[int]\n        \"\"\"\n        ",
+      "python3": "class Solution:\n    def canSeePersonsCount(self, heights: List[int]) -> List[int]:\n        ",
+      "racket": "(define/contract (can-see-persons-count heights)\n  (-> (listof exact-integer?) (listof exact-integer?))\n  )",
+      "ruby": "# @param {Integer[]} heights\n# @return {Integer[]}\ndef can_see_persons_count(heights)\n    \nend",
+      "rust": "impl Solution {\n    pub fn can_see_persons_count(heights: Vec<i32>) -> Vec<i32> {\n        \n    }\n}",
+      "scala": "object Solution {\n    def canSeePersonsCount(heights: Array[Int]): Array[Int] = {\n        \n    }\n}",
+      "swift": "class Solution {\n    func canSeePersonsCount(_ heights: [Int]) -> [Int] {\n        \n    }\n}",
+      "typescript": "function canSeePersonsCount(heights: number[]): number[] {\n    \n};"
+    },
+    "title": "Number of Visible People in a Queue"
+  },
   "online-stock-span": {
     "frontend_id": "901",
     "paid_only": false,

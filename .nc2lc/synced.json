@@ -1209,6 +1209,17 @@
     "status": "Time Limit Exceeded",
     "submission_id": 2093222031
   },
+  "number-of-visible-people-in-a-queue/submission-0.py": {
+    "at": "2026-08-20T22:49:39Z",
+    "file": "submission-0.py",
+    "leetcode_id": 1944,
+    "leetcode_slug": "number-of-visible-people-in-a-queue",
+    "note": "verbatim",
+    "sha256": "4a77bf293ce2ffaf676e32d496b323490c5f5cc801af8e242d427d0c8934caa7",
+    "slug": "number-of-visible-people-in-a-queue",
+    "status": "Accepted",
+    "submission_id": 2114486406
+  },
   "online-stock-span/submission-0.py": {
     "at": "2026-08-20T20:17:24Z",
     "file": "submission-0.py",
@@ -1560,6 +1571,17 @@
     "slug": "unique-paths-ii",
     "status": "Accepted",
     "submission_id": 2114430557
+  },
+  "unique-paths-ii/submission-3.py": {
+    "at": "2026-08-20T22:51:11Z",
+    "file": "submission-3.py",
+    "leetcode_id": 63,
+    "leetcode_slug": "unique-paths-ii",
+    "note": "verbatim",
+    "sha256": "e99e86149dc6490605f3537f8e71e77b3fd62c33e333ef9780617a4550773789",
+    "slug": "unique-paths-ii",
+    "status": "Accepted",
+    "submission_id": 2114486888
   },
   "valid-parenthesis-string/submission-2.py": {
     "at": "2026-08-03T21:44:49Z",
