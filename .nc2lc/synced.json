@@ -21,6 +21,17 @@
     "status": "Accepted",
     "submission_id": 2107193877
   },
+  "average-waiting-time/submission-0.py": {
+    "at": "2026-08-28T17:36:52Z",
+    "file": "submission-0.py",
+    "leetcode_id": 1701,
+    "leetcode_slug": "average-waiting-time",
+    "note": "verbatim",
+    "sha256": "12db46a76b3352194c1ef820844e75d4d69ff8f12011d12516c88cca761f7132",
+    "slug": "average-waiting-time",
+    "status": "Accepted",
+    "submission_id": 2123144960
+  },
   "balanced-binary-tree/submission-1.py": {
     "at": "2026-08-03T21:07:11Z",
     "file": "submission-1.py",
@@ -131,6 +142,17 @@
     "status": "Accepted",
     "submission_id": 2093203605
   },
+  "boats-to-save-people/submission-1.py": {
+    "at": "2026-08-28T17:37:41Z",
+    "file": "submission-1.py",
+    "leetcode_id": 881,
+    "leetcode_slug": "boats-to-save-people",
+    "note": "verbatim",
+    "sha256": "d5e5611c80ccafe6315efb71bed8943b6fe1dd010fd093413902324541145707",
+    "slug": "boats-to-save-people",
+    "status": "Accepted",
+    "submission_id": 2123145916
+  },
   "buy-and-sell-crypto/submission-0.py": {
     "at": "2026-08-15T04:16:01Z",
     "file": "submission-0.py",
@@ -174,6 +196,17 @@
     "slug": "car-pooling",
     "status": "Accepted",
     "submission_id": 2104992569
+  },
+  "check-completeness-of-a-binary-tree/submission-7.py": {
+    "at": "2026-08-28T17:38:29Z",
+    "file": "submission-7.py",
+    "leetcode_id": 958,
+    "leetcode_slug": "check-completeness-of-a-binary-tree",
+    "note": "verbatim",
+    "sha256": "5b8bd2f71a8db50e5de803bba43946a8b3a5214c37df0463ff2d4662f9386088",
+    "slug": "check-completeness-of-a-binary-tree",
+    "status": "Accepted",
+    "submission_id": 2123146841
   },
   "climbing-stairs/submission-0.py": {
     "at": "2026-08-15T04:17:38Z",
@@ -306,6 +339,28 @@
     "slug": "continuous-subarray-sum",
     "status": "Accepted",
     "submission_id": 2093207267
+  },
+  "copy-linked-list-with-random-pointer/submission-1.py": {
+    "at": "2026-08-28T17:39:17Z",
+    "file": "submission-1.py",
+    "leetcode_id": 138,
+    "leetcode_slug": "copy-list-with-random-pointer",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "d6b198b9455e4439f34a0d447a6a8368500817922cb40e030db4f218a1ec33ae",
+    "slug": "copy-linked-list-with-random-pointer",
+    "status": "Accepted",
+    "submission_id": 2123147753
+  },
+  "copy-linked-list-with-random-pointer/submission-2.py": {
+    "at": "2026-08-28T17:40:05Z",
+    "file": "submission-2.py",
+    "leetcode_id": 138,
+    "leetcode_slug": "copy-list-with-random-pointer",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "db9f21b86b9c076e156f1b8626be7073ff24f2b1bc1e0ddee99086c452ab79fc",
+    "slug": "copy-linked-list-with-random-pointer",
+    "status": "Accepted",
+    "submission_id": 2123148713
   },
   "count-number-of-islands/submission-1.py": {
     "at": "2026-08-18T05:19:11Z",
@@ -614,6 +669,39 @@
     "slug": "first-unique-character-in-a-string",
     "status": "Accepted",
     "submission_id": 2098678681
+  },
+  "fruit-into-baskets/submission-0.py": {
+    "at": "2026-08-28T17:40:53Z",
+    "file": "submission-0.py",
+    "leetcode_id": 904,
+    "leetcode_slug": "fruit-into-baskets",
+    "note": "verbatim",
+    "sha256": "39cd54565f0a887b44d3670a5dce3f9dddda73204137109a15cd9d1614220452",
+    "slug": "fruit-into-baskets",
+    "status": "Accepted",
+    "submission_id": 2123149588
+  },
+  "grumpy-bookstore-owner/submission-0.py": {
+    "at": "2026-08-28T17:41:44Z",
+    "file": "submission-0.py",
+    "leetcode_id": 1052,
+    "leetcode_slug": "grumpy-bookstore-owner",
+    "note": "verbatim",
+    "sha256": "3e95532eacd1a0cb1d3d010d0937c7262d1392f018bfe6356bb7f7be09209213",
+    "slug": "grumpy-bookstore-owner",
+    "status": "Accepted",
+    "submission_id": 2123150518
+  },
+  "grumpy-bookstore-owner/submission-1.py": {
+    "at": "2026-08-28T17:42:32Z",
+    "file": "submission-1.py",
+    "leetcode_id": 1052,
+    "leetcode_slug": "grumpy-bookstore-owner",
+    "note": "verbatim",
+    "sha256": "e4ce03bddb68e710d7266492b20ae773728b55a3394b22d8a737af851ec058cb",
+    "slug": "grumpy-bookstore-owner",
+    "status": "Accepted",
+    "submission_id": 2123151532
   },
   "hand-of-straights/submission-1.py": {
     "at": "2026-08-16T05:21:59Z",
@@ -1165,6 +1253,17 @@
     "status": "Accepted",
     "submission_id": 2093221419
   },
+  "minimum-number-of-increments-on-subarrays-to-form-a-target-array/submission-0.py": {
+    "at": "2026-08-28T17:43:20Z",
+    "file": "submission-0.py",
+    "leetcode_id": 1526,
+    "leetcode_slug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+    "note": "verbatim",
+    "sha256": "4b683423f34502250754943d6d2b64c39ed306878d03e69e54a35e2fc5a563c4",
+    "slug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+    "status": "Accepted",
+    "submission_id": 2123152409
+  },
   "minimum-path-sum/submission-1.py": {
     "at": "2026-08-15T03:41:04Z",
     "file": "submission-1.py",
@@ -1208,6 +1307,17 @@
     "slug": "minimum-window-with-characters",
     "status": "Time Limit Exceeded",
     "submission_id": 2093222031
+  },
+  "non-overlapping-intervals/submission-12.py": {
+    "at": "2026-08-28T17:44:10Z",
+    "file": "submission-12.py",
+    "leetcode_id": 435,
+    "leetcode_slug": "non-overlapping-intervals",
+    "note": "verbatim",
+    "sha256": "9fa02fb1f0cba72cf278abb628ac2e0730953b8794da35339134d2c10aa823b1",
+    "slug": "non-overlapping-intervals",
+    "status": "Accepted",
+    "submission_id": 2123153333
   },
   "number-of-visible-people-in-a-queue/submission-0.py": {
     "at": "2026-08-20T22:49:39Z",

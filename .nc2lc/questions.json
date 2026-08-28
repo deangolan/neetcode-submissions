@@ -26,6 +26,33 @@
     },
     "title": "3Sum"
   },
+  "average-waiting-time": {
+    "frontend_id": "1701",
+    "paid_only": false,
+    "question_id": "1803",
+    "snippets": {
+      "c": "double averageWaitingTime(int** customers, int customersSize, int* customersColSize) {\n    \n}",
+      "cpp": "class Solution {\npublic:\n    double averageWaitingTime(vector<vector<int>>& customers) {\n        \n    }\n};",
+      "csharp": "public class Solution {\n    public double AverageWaitingTime(int[][] customers) {\n        \n    }\n}",
+      "dart": "class Solution {\n  double averageWaitingTime(List<List<int>> customers) {\n    \n  }\n}",
+      "elixir": "defmodule Solution do\n  @spec average_waiting_time(customers :: [[integer]]) :: float\n  def average_waiting_time(customers) do\n    \n  end\nend",
+      "erlang": "-spec average_waiting_time(Customers :: [[integer()]]) -> float().\naverage_waiting_time(Customers) ->\n  .",
+      "golang": "func averageWaitingTime(customers [][]int) float64 {\n    \n}",
+      "java": "class Solution {\n    public double averageWaitingTime(int[][] customers) {\n        \n    }\n}",
+      "javascript": "/**\n * @param {number[][]} customers\n * @return {number}\n */\nvar averageWaitingTime = function(customers) {\n    \n};",
+      "kotlin": "class Solution {\n    fun averageWaitingTime(customers: Array<IntArray>): Double {\n        \n    }\n}",
+      "php": "class Solution {\n\n    /**\n     * @param Integer[][] $customers\n     * @return Float\n     */\n    function averageWaitingTime($customers) {\n        \n    }\n}",
+      "python": "class Solution(object):\n    def averageWaitingTime(self, customers):\n        \"\"\"\n        :type customers: List[List[int]]\n        :rtype: float\n        \"\"\"\n        ",
+      "python3": "class Solution:\n    def averageWaitingTime(self, customers: List[List[int]]) -> float:\n        ",
+      "racket": "(define/contract (average-waiting-time customers)\n  (-> (listof (listof exact-integer?)) flonum?)\n  )",
+      "ruby": "# @param {Integer[][]} customers\n# @return {Float}\ndef average_waiting_time(customers)\n    \nend",
+      "rust": "impl Solution {\n    pub fn average_waiting_time(customers: Vec<Vec<i32>>) -> f64 {\n        \n    }\n}",
+      "scala": "object Solution {\n    def averageWaitingTime(customers: Array[Array[Int]]): Double = {\n        \n    }\n}",
+      "swift": "class Solution {\n    func averageWaitingTime(_ customers: [[Int]]) -> Double {\n        \n    }\n}",
+      "typescript": "function averageWaitingTime(customers: number[][]): number {\n    \n};"
+    },
+    "title": "Average Waiting Time"
+  },
   "balanced-binary-tree": {
     "frontend_id": "110",
     "paid_only": false,
@@ -242,6 +269,40 @@
     },
     "title": "Binary Tree Preorder Traversal"
   },
+  "boats-to-save-people": {
+    "frontend_id": "881",
+    "paid_only": false,
+    "question_id": "917",
+    "snippets": {
+      "c": "int numRescueBoats(int* people, int peopleSize, int limit) {\n    \n}",
+      "cpp": "class Solution {\npublic:\n    int numRescueBoats(vector<int>& people, int limit) {\n        \n    }\n};",
+      "csharp": "public class Solution {\n    public int NumRescueBoats(int[] people, int limit) {\n        \n    }\n}",
+      "dart": "class Solution {\n  int numRescueBoats(List<int> people, int limit) {\n    \n  }\n}",
+      "elixir": "defmodule Solution do\n  @spec num_rescue_boats(people :: [integer], limit :: integer) :: integer\n  def num_rescue_boats(people, limit) do\n    \n  end\nend",
+      "erlang": "-spec num_rescue_boats(People :: [integer()], Limit :: integer()) -> integer().\nnum_rescue_boats(People, Limit) ->\n  .",
+      "golang": "func numRescueBoats(people []int, limit int) int {\n    \n}",
+      "java": "class Solution {\n    public int numRescueBoats(int[] people, int limit) {\n        \n    }\n}",
+      "javascript": "/**\n * @param {number[]} people\n * @param {number} limit\n * @return {number}\n */\nvar numRescueBoats = function(people, limit) {\n    \n};",
+      "kotlin": "class Solution {\n    fun numRescueBoats(people: IntArray, limit: Int): Int {\n        \n    }\n}",
+      "php": "class Solution {\n\n    /**\n     * @param Integer[] $people\n     * @param Integer $limit\n     * @return Integer\n     */\n    function numRescueBoats($people, $limit) {\n        \n    }\n}",
+      "python": "class Solution(object):\n    def numRescueBoats(self, people, limit):\n        \"\"\"\n        :type people: List[int]\n        :type limit: int\n        :rtype: int\n        \"\"\"\n        ",
+      "python3": "class Solution:\n    def numRescueBoats(self, people: List[int], limit: int) -> int:\n        ",
+      "racket": "(define/contract (num-rescue-boats people limit)\n  (-> (listof exact-integer?) exact-integer? exact-integer?)\n  )",
+      "ruby": "# @param {Integer[]} people\n# @param {Integer} limit\n# @return {Integer}\ndef num_rescue_boats(people, limit)\n    \nend",
+      "rust": "impl Solution {\n    pub fn num_rescue_boats(people: Vec<i32>, limit: i32) -> i32 {\n        \n    }\n}",
+      "scala": "object Solution {\n    def numRescueBoats(people: Array[Int], limit: Int): Int = {\n        \n    }\n}",
+      "swift": "class Solution {\n    func numRescueBoats(_ people: [Int], _ limit: Int) -> Int {\n        \n    }\n}",
+      "typescript": "function numRescueBoats(people: number[], limit: number): number {\n    \n};"
+    },
+    "title": "Boats to Save People"
+  },
+  "buildings-with-an-ocean-view": {
+    "frontend_id": "1762",
+    "paid_only": true,
+    "question_id": "1909",
+    "snippets": {},
+    "title": "Buildings With an Ocean View"
+  },
   "capacity-to-ship-packages-within-d-days": {
     "frontend_id": "1011",
     "paid_only": false,
@@ -295,6 +356,33 @@
       "typescript": "function carPooling(trips: number[][], capacity: number): boolean {\n    \n};"
     },
     "title": "Car Pooling"
+  },
+  "check-completeness-of-a-binary-tree": {
+    "frontend_id": "958",
+    "paid_only": false,
+    "question_id": "998",
+    "snippets": {
+      "c": "/**\n * Definition for a binary tree node.\n * struct TreeNode {\n *     int val;\n *     struct TreeNode *left;\n *     struct TreeNode *right;\n * };\n */\nbool isCompleteTree(struct TreeNode* root) {\n    \n}",
+      "cpp": "/**\n * Definition for a binary tree node.\n * struct TreeNode {\n *     int val;\n *     TreeNode *left;\n *     TreeNode *right;\n *     TreeNode() : val(0), left(nullptr), right(nullptr) {}\n *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}\n *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}\n * };\n */\nclass Solution {\npublic:\n    bool isCompleteTree(TreeNode* root) {\n        \n    }\n};",
+      "csharp": "/**\n * Definition for a binary tree node.\n * public class TreeNode {\n *     public int val;\n *     public TreeNode left;\n *     public TreeNode right;\n *     public TreeNode(int val=0, TreeNode left=null, TreeNode right=null) {\n *         this.val = val;\n *         this.left = left;\n *         this.right = right;\n *     }\n * }\n */\npublic class Solution {\n    public bool IsCompleteTree(TreeNode root) {\n        \n    }\n}",
+      "dart": "/**\n * Definition for a binary tree node.\n * class TreeNode {\n *   int val;\n *   TreeNode? left;\n *   TreeNode? right;\n *   TreeNode([this.val = 0, this.left, this.right]);\n * }\n */\nclass Solution {\n  bool isCompleteTree(TreeNode? root) {\n    \n  }\n}",
+      "elixir": "# Definition for a binary tree node.\n#\n# defmodule TreeNode do\n#   @type t :: %__MODULE__{\n#           val: integer,\n#           left: TreeNode.t() | nil,\n#           right: TreeNode.t() | nil\n#         }\n#   defstruct val: 0, left: nil, right: nil\n# end\n\ndefmodule Solution do\n  @spec is_complete_tree(root :: TreeNode.t | nil) :: boolean\n  def is_complete_tree(root) do\n    \n  end\nend",
+      "erlang": "%% Definition for a binary tree node.\n%%\n%% -record(tree_node, {val = 0 :: integer(),\n%%                     left = null  :: 'null' | #tree_node{},\n%%                     right = null :: 'null' | #tree_node{}}).\n\n-spec is_complete_tree(Root :: #tree_node{} | null) -> boolean().\nis_complete_tree(Root) ->\n  .",
+      "golang": "/**\n * Definition for a binary tree node.\n * type TreeNode struct {\n *     Val int\n *     Left *TreeNode\n *     Right *TreeNode\n * }\n */\nfunc isCompleteTree(root *TreeNode) bool {\n    \n}",
+      "java": "/**\n * Definition for a binary tree node.\n * public class TreeNode {\n *     int val;\n *     TreeNode left;\n *     TreeNode right;\n *     TreeNode() {}\n *     TreeNode(int val) { this.val = val; }\n *     TreeNode(int val, TreeNode left, TreeNode right) {\n *         this.val = val;\n *         this.left = left;\n *         this.right = right;\n *     }\n * }\n */\nclass Solution {\n    public boolean isCompleteTree(TreeNode root) {\n        \n    }\n}",
+      "javascript": "/**\n * Definition for a binary tree node.\n * function TreeNode(val, left, right) {\n *     this.val = (val===undefined ? 0 : val)\n *     this.left = (left===undefined ? null : left)\n *     this.right = (right===undefined ? null : right)\n * }\n */\n/**\n * @param {TreeNode} root\n * @return {boolean}\n */\nvar isCompleteTree = function(root) {\n    \n};",
+      "kotlin": "/**\n * Example:\n * var ti = TreeNode(5)\n * var v = ti.`val`\n * Definition for a binary tree node.\n * class TreeNode(var `val`: Int) {\n *     var left: TreeNode? = null\n *     var right: TreeNode? = null\n * }\n */\nclass Solution {\n    fun isCompleteTree(root: TreeNode?): Boolean {\n        \n    }\n}",
+      "php": "/**\n * Definition for a binary tree node.\n * class TreeNode {\n *     public $val = null;\n *     public $left = null;\n *     public $right = null;\n *     function __construct($val = 0, $left = null, $right = null) {\n *         $this->val = $val;\n *         $this->left = $left;\n *         $this->right = $right;\n *     }\n * }\n */\nclass Solution {\n\n    /**\n     * @param TreeNode $root\n     * @return Boolean\n     */\n    function isCompleteTree($root) {\n        \n    }\n}",
+      "python": "# Definition for a binary tree node.\n# class TreeNode(object):\n#     def __init__(self, val=0, left=None, right=None):\n#         self.val = val\n#         self.left = left\n#         self.right = right\nclass Solution(object):\n    def isCompleteTree(self, root):\n        \"\"\"\n        :type root: Optional[TreeNode]\n        :rtype: bool\n        \"\"\"\n        ",
+      "python3": "# Definition for a binary tree node.\n# class TreeNode:\n#     def __init__(self, val=0, left=None, right=None):\n#         self.val = val\n#         self.left = left\n#         self.right = right\nclass Solution:\n    def isCompleteTree(self, root: Optional[TreeNode]) -> bool:\n        ",
+      "racket": "; Definition for a binary tree node.\n#|\n\n; val : integer?\n; left : (or/c tree-node? #f)\n; right : (or/c tree-node? #f)\n(struct tree-node\n  (val left right) #:mutable #:transparent)\n\n; constructor\n(define (make-tree-node [val 0])\n  (tree-node val #f #f))\n\n|#\n\n(define/contract (is-complete-tree root)\n  (-> (or/c tree-node? #f) boolean?)\n  )",
+      "ruby": "# Definition for a binary tree node.\n# class TreeNode\n#     attr_accessor :val, :left, :right\n#     def initialize(val = 0, left = nil, right = nil)\n#         @val = val\n#         @left = left\n#         @right = right\n#     end\n# end\n# @param {TreeNode} root\n# @return {Boolean}\ndef is_complete_tree(root)\n    \nend",
+      "rust": "// Definition for a binary tree node.\n// #[derive(Debug, PartialEq, Eq)]\n// pub struct TreeNode {\n//   pub val: i32,\n//   pub left: Option<Rc<RefCell<TreeNode>>>,\n//   pub right: Option<Rc<RefCell<TreeNode>>>,\n// }\n// \n// impl TreeNode {\n//   #[inline]\n//   pub fn new(val: i32) -> Self {\n//     TreeNode {\n//       val,\n//       left: None,\n//       right: None\n//     }\n//   }\n// }\nuse std::rc::Rc;\nuse std::cell::RefCell;\nimpl Solution {\n    pub fn is_complete_tree(root: Option<Rc<RefCell<TreeNode>>>) -> bool {\n        \n    }\n}",
+      "scala": "/**\n * Definition for a binary tree node.\n * class TreeNode(_value: Int = 0, _left: TreeNode = null, _right: TreeNode = null) {\n *   var value: Int = _value\n *   var left: TreeNode = _left\n *   var right: TreeNode = _right\n * }\n */\nobject Solution {\n    def isCompleteTree(root: TreeNode): Boolean = {\n        \n    }\n}",
+      "swift": "/**\n * Definition for a binary tree node.\n * public class TreeNode {\n *     public var val: Int\n *     public var left: TreeNode?\n *     public var right: TreeNode?\n *     public init() { self.val = 0; self.left = nil; self.right = nil; }\n *     public init(_ val: Int) { self.val = val; self.left = nil; self.right = nil; }\n *     public init(_ val: Int, _ left: TreeNode?, _ right: TreeNode?) {\n *         self.val = val\n *         self.left = left\n *         self.right = right\n *     }\n * }\n */\nclass Solution {\n    func isCompleteTree(_ root: TreeNode?) -> Bool {\n        \n    }\n}",
+      "typescript": "/**\n * Definition for a binary tree node.\n * class TreeNode {\n *     val: number\n *     left: TreeNode | null\n *     right: TreeNode | null\n *     constructor(val?: number, left?: TreeNode | null, right?: TreeNode | null) {\n *         this.val = (val===undefined ? 0 : val)\n *         this.left = (left===undefined ? null : left)\n *         this.right = (right===undefined ? null : right)\n *     }\n * }\n */\n\nfunction isCompleteTree(root: TreeNode | null): boolean {\n    \n};"
+    },
+    "title": "Check Completeness of a Binary Tree"
   },
   "climbing-stairs": {
     "frontend_id": "70",
@@ -533,6 +621,28 @@
       "typescript": "function checkSubarraySum(nums: number[], k: number): boolean {\n    \n};"
     },
     "title": "Continuous Subarray Sum"
+  },
+  "copy-list-with-random-pointer": {
+    "frontend_id": "138",
+    "paid_only": false,
+    "question_id": "138",
+    "snippets": {
+      "c": "/**\n * Definition for a Node.\n * struct Node {\n *     int val;\n *     struct Node *next;\n *     struct Node *random;\n * };\n */\n\nstruct Node* copyRandomList(struct Node* head) {\n\t\n}",
+      "cpp": "/*\n// Definition for a Node.\nclass Node {\npublic:\n    int val;\n    Node* next;\n    Node* random;\n    \n    Node(int _val) {\n        val = _val;\n        next = NULL;\n        random = NULL;\n    }\n};\n*/\n\nclass Solution {\npublic:\n    Node* copyRandomList(Node* head) {\n        \n    }\n};",
+      "csharp": "/*\n// Definition for a Node.\npublic class Node {\n    public int val;\n    public Node next;\n    public Node random;\n    \n    public Node(int _val) {\n        val = _val;\n        next = null;\n        random = null;\n    }\n}\n*/\n\npublic class Solution {\n    public Node CopyRandomList(Node head) {\n        \n    }\n}",
+      "golang": "/**\n * Definition for a Node.\n * type Node struct {\n *     Val int\n *     Next *Node\n *     Random *Node\n * }\n */\n\nfunc copyRandomList(head *Node) *Node {\n    \n}",
+      "java": "/*\n// Definition for a Node.\nclass Node {\n    int val;\n    Node next;\n    Node random;\n\n    public Node(int val) {\n        this.val = val;\n        this.next = null;\n        this.random = null;\n    }\n}\n*/\n\nclass Solution {\n    public Node copyRandomList(Node head) {\n        \n    }\n}",
+      "javascript": "/**\n * // Definition for a _Node.\n * function _Node(val, next, random) {\n *    this.val = val;\n *    this.next = next;\n *    this.random = random;\n * };\n */\n\n/**\n * @param {_Node} head\n * @return {_Node}\n */\nvar copyRandomList = function(head) {\n    \n};",
+      "kotlin": "/**\n * Example:\n * var ti = Node(5)\n * var v = ti.`val`\n * Definition for a Node.\n * class Node(var `val`: Int) {\n *     var next: Node? = null\n *     var random: Node? = null\n * }\n */\n\nclass Solution {\n    fun copyRandomList(node: Node?): Node? {\n        \n    }\n}",
+      "php": "/**\n * Definition for a Node.\n * class Node {\n *     public $val = null;\n *     public $next = null;\n *     public $random = null;\n *     function __construct($val = 0) {\n *         $this->val = $val;\n *         $this->next = null;\n *         $this->random = null;\n *     }\n * }\n */\n\nclass Solution {\n    /**\n     * @param Node $head\n     * @return Node\n     */\n    function copyRandomList($head) {\n        \n    }\n}",
+      "python": "\"\"\"\n# Definition for a Node.\nclass Node:\n    def __init__(self, x, next=None, random=None):\n        self.val = int(x)\n        self.next = next\n        self.random = random\n\"\"\"\n\nclass Solution(object):\n    def copyRandomList(self, head):\n        \"\"\"\n        :type head: Node\n        :rtype: Node\n        \"\"\"\n        ",
+      "python3": "\"\"\"\n# Definition for a Node.\nclass Node:\n    def __init__(self, x: int, next: 'Node' = None, random: 'Node' = None):\n        self.val = int(x)\n        self.next = next\n        self.random = random\n\"\"\"\n\nclass Solution:\n    def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':\n        ",
+      "ruby": "# Definition for Node.\n# class Node\n#     attr_accessor :val, :next, :random\n#     def initialize(val = 0)\n#         @val = val\n#\t\t  @next = nil\n#\t\t  @random = nil\n#     end\n# end\n\n# @param {Node} node\n# @return {Node}\ndef copyRandomList(head)\n    \nend",
+      "scala": "/**\n * Definition for a Node.\n * class Node(var _value: Int) {\n *   var value: Int = _value\n *   var next: Node = null\n *   var random: Node = null\n * }\n */\n\nobject Solution {\n    def copyRandomList(head: Node): Node = {\n        \n    }\n}",
+      "swift": "/**\n * Definition for a Node.\n * public class Node {\n *     public var val: Int\n *     public var next: Node?\n *     public var random: Node?\n *     public init(_ val: Int) {\n *         self.val = val\n *         self.next = nil\n *    \t   self.random = nil\n *     }\n * }\n */\n\nclass Solution {\n    func copyRandomList(_ head: Node?) -> Node? {\n        \n    }\n}",
+      "typescript": "/**\n * Definition for _Node.\n * class _Node {\n *     val: number\n *     next: _Node | null\n *     random: _Node | null\n * \n *     constructor(val?: number, next?: _Node, random?: _Node) {\n *         this.val = (val===undefined ? 0 : val)\n *         this.next = (next===undefined ? null : next)\n *         this.random = (random===undefined ? null : random)\n *     }\n * }\n */\n\n\nfunction copyRandomList(head: _Node | null): _Node | null {\n    \n};"
+    },
+    "title": "Copy List with Random Pointer"
   },
   "course-schedule": {
     "frontend_id": "207",
@@ -973,6 +1083,33 @@
     },
     "title": "First Unique Character in a String"
   },
+  "fruit-into-baskets": {
+    "frontend_id": "904",
+    "paid_only": false,
+    "question_id": "940",
+    "snippets": {
+      "c": "int totalFruit(int* fruits, int fruitsSize) {\n    \n}",
+      "cpp": "class Solution {\npublic:\n    int totalFruit(vector<int>& fruits) {\n        \n    }\n};",
+      "csharp": "public class Solution {\n    public int TotalFruit(int[] fruits) {\n        \n    }\n}",
+      "dart": "class Solution {\n  int totalFruit(List<int> fruits) {\n    \n  }\n}",
+      "elixir": "defmodule Solution do\n  @spec total_fruit(fruits :: [integer]) :: integer\n  def total_fruit(fruits) do\n    \n  end\nend",
+      "erlang": "-spec total_fruit(Fruits :: [integer()]) -> integer().\ntotal_fruit(Fruits) ->\n  .",
+      "golang": "func totalFruit(fruits []int) int {\n    \n}",
+      "java": "class Solution {\n    public int totalFruit(int[] fruits) {\n        \n    }\n}",
+      "javascript": "/**\n * @param {number[]} fruits\n * @return {number}\n */\nvar totalFruit = function(fruits) {\n    \n};",
+      "kotlin": "class Solution {\n    fun totalFruit(fruits: IntArray): Int {\n        \n    }\n}",
+      "php": "class Solution {\n\n    /**\n     * @param Integer[] $fruits\n     * @return Integer\n     */\n    function totalFruit($fruits) {\n        \n    }\n}",
+      "python": "class Solution(object):\n    def totalFruit(self, fruits):\n        \"\"\"\n        :type fruits: List[int]\n        :rtype: int\n        \"\"\"\n        ",
+      "python3": "class Solution:\n    def totalFruit(self, fruits: List[int]) -> int:\n        ",
+      "racket": "(define/contract (total-fruit fruits)\n  (-> (listof exact-integer?) exact-integer?)\n  )",
+      "ruby": "# @param {Integer[]} fruits\n# @return {Integer}\ndef total_fruit(fruits)\n    \nend",
+      "rust": "impl Solution {\n    pub fn total_fruit(fruits: Vec<i32>) -> i32 {\n        \n    }\n}",
+      "scala": "object Solution {\n    def totalFruit(fruits: Array[Int]): Int = {\n        \n    }\n}",
+      "swift": "class Solution {\n    func totalFruit(_ fruits: [Int]) -> Int {\n        \n    }\n}",
+      "typescript": "function totalFruit(fruits: number[]): number {\n    \n};"
+    },
+    "title": "Fruit Into Baskets"
+  },
   "graph-valid-tree": {
     "frontend_id": "261",
     "paid_only": true,
@@ -1006,6 +1143,33 @@
       "typescript": "function groupAnagrams(strs: string[]): string[][] {\n    \n};"
     },
     "title": "Group Anagrams"
+  },
+  "grumpy-bookstore-owner": {
+    "frontend_id": "1052",
+    "paid_only": false,
+    "question_id": "1138",
+    "snippets": {
+      "c": "int maxSatisfied(int* customers, int customersSize, int* grumpy, int grumpySize, int minutes) {\n    \n}",
+      "cpp": "class Solution {\npublic:\n    int maxSatisfied(vector<int>& customers, vector<int>& grumpy, int minutes) {\n        \n    }\n};",
+      "csharp": "public class Solution {\n    public int MaxSatisfied(int[] customers, int[] grumpy, int minutes) {\n        \n    }\n}",
+      "dart": "class Solution {\n  int maxSatisfied(List<int> customers, List<int> grumpy, int minutes) {\n    \n  }\n}",
+      "elixir": "defmodule Solution do\n  @spec max_satisfied(customers :: [integer], grumpy :: [integer], minutes :: integer) :: integer\n  def max_satisfied(customers, grumpy, minutes) do\n    \n  end\nend",
+      "erlang": "-spec max_satisfied(Customers :: [integer()], Grumpy :: [integer()], Minutes :: integer()) -> integer().\nmax_satisfied(Customers, Grumpy, Minutes) ->\n  .",
+      "golang": "func maxSatisfied(customers []int, grumpy []int, minutes int) int {\n    \n}",
+      "java": "class Solution {\n    public int maxSatisfied(int[] customers, int[] grumpy, int minutes) {\n        \n    }\n}",
+      "javascript": "/**\n * @param {number[]} customers\n * @param {number[]} grumpy\n * @param {number} minutes\n * @return {number}\n */\nvar maxSatisfied = function(customers, grumpy, minutes) {\n    \n};",
+      "kotlin": "class Solution {\n    fun maxSatisfied(customers: IntArray, grumpy: IntArray, minutes: Int): Int {\n        \n    }\n}",
+      "php": "class Solution {\n\n    /**\n     * @param Integer[] $customers\n     * @param Integer[] $grumpy\n     * @param Integer $minutes\n     * @return Integer\n     */\n    function maxSatisfied($customers, $grumpy, $minutes) {\n        \n    }\n}",
+      "python": "class Solution(object):\n    def maxSatisfied(self, customers, grumpy, minutes):\n        \"\"\"\n        :type customers: List[int]\n        :type grumpy: List[int]\n        :type minutes: int\n        :rtype: int\n        \"\"\"\n        ",
+      "python3": "class Solution:\n    def maxSatisfied(self, customers: List[int], grumpy: List[int], minutes: int) -> int:\n        ",
+      "racket": "(define/contract (max-satisfied customers grumpy minutes)\n  (-> (listof exact-integer?) (listof exact-integer?) exact-integer? exact-integer?)\n  )",
+      "ruby": "# @param {Integer[]} customers\n# @param {Integer[]} grumpy\n# @param {Integer} minutes\n# @return {Integer}\ndef max_satisfied(customers, grumpy, minutes)\n    \nend",
+      "rust": "impl Solution {\n    pub fn max_satisfied(customers: Vec<i32>, grumpy: Vec<i32>, minutes: i32) -> i32 {\n        \n    }\n}",
+      "scala": "object Solution {\n    def maxSatisfied(customers: Array[Int], grumpy: Array[Int], minutes: Int): Int = {\n        \n    }\n}",
+      "swift": "class Solution {\n    func maxSatisfied(_ customers: [Int], _ grumpy: [Int], _ minutes: Int) -> Int {\n        \n    }\n}",
+      "typescript": "function maxSatisfied(customers: number[], grumpy: number[], minutes: number): number {\n    \n};"
+    },
+    "title": "Grumpy Bookstore Owner"
   },
   "hand-of-straights": {
     "frontend_id": "846",
@@ -1812,6 +1976,33 @@
     },
     "title": "Min Stack"
   },
+  "minimum-number-of-increments-on-subarrays-to-form-a-target-array": {
+    "frontend_id": "1526",
+    "paid_only": false,
+    "question_id": "1633",
+    "snippets": {
+      "c": "int minNumberOperations(int* target, int targetSize) {\n    \n}",
+      "cpp": "class Solution {\npublic:\n    int minNumberOperations(vector<int>& target) {\n        \n    }\n};",
+      "csharp": "public class Solution {\n    public int MinNumberOperations(int[] target) {\n        \n    }\n}",
+      "dart": "class Solution {\n  int minNumberOperations(List<int> target) {\n    \n  }\n}",
+      "elixir": "defmodule Solution do\n  @spec min_number_operations(target :: [integer]) :: integer\n  def min_number_operations(target) do\n    \n  end\nend",
+      "erlang": "-spec min_number_operations(Target :: [integer()]) -> integer().\nmin_number_operations(Target) ->\n  .",
+      "golang": "func minNumberOperations(target []int) int {\n    \n}",
+      "java": "class Solution {\n    public int minNumberOperations(int[] target) {\n        \n    }\n}",
+      "javascript": "/**\n * @param {number[]} target\n * @return {number}\n */\nvar minNumberOperations = function(target) {\n    \n};",
+      "kotlin": "class Solution {\n    fun minNumberOperations(target: IntArray): Int {\n        \n    }\n}",
+      "php": "class Solution {\n\n    /**\n     * @param Integer[] $target\n     * @return Integer\n     */\n    function minNumberOperations($target) {\n        \n    }\n}",
+      "python": "class Solution(object):\n    def minNumberOperations(self, target):\n        \"\"\"\n        :type target: List[int]\n        :rtype: int\n        \"\"\"\n        ",
+      "python3": "class Solution:\n    def minNumberOperations(self, target: List[int]) -> int:\n        ",
+      "racket": "(define/contract (min-number-operations target)\n  (-> (listof exact-integer?) exact-integer?)\n  )",
+      "ruby": "# @param {Integer[]} target\n# @return {Integer}\ndef min_number_operations(target)\n    \nend",
+      "rust": "impl Solution {\n    pub fn min_number_operations(target: Vec<i32>) -> i32 {\n        \n    }\n}",
+      "scala": "object Solution {\n    def minNumberOperations(target: Array[Int]): Int = {\n        \n    }\n}",
+      "swift": "class Solution {\n    func minNumberOperations(_ target: [Int]) -> Int {\n        \n    }\n}",
+      "typescript": "function minNumberOperations(target: number[]): number {\n    \n};"
+    },
+    "title": "Minimum Number of Increments on Subarrays to Form a Target Array"
+  },
   "minimum-path-sum": {
     "frontend_id": "64",
     "paid_only": false,
@@ -1892,6 +2083,33 @@
       "typescript": "function minWindow(s: string, t: string): string {\n    \n};"
     },
     "title": "Minimum Window Substring"
+  },
+  "non-overlapping-intervals": {
+    "frontend_id": "435",
+    "paid_only": false,
+    "question_id": "435",
+    "snippets": {
+      "c": "int eraseOverlapIntervals(int** intervals, int intervalsSize, int* intervalsColSize) {\n    \n}",
+      "cpp": "class Solution {\npublic:\n    int eraseOverlapIntervals(vector<vector<int>>& intervals) {\n        \n    }\n};",
+      "csharp": "public class Solution {\n    public int EraseOverlapIntervals(int[][] intervals) {\n        \n    }\n}",
+      "dart": "class Solution {\n  int eraseOverlapIntervals(List<List<int>> intervals) {\n    \n  }\n}",
+      "elixir": "defmodule Solution do\n  @spec erase_overlap_intervals(intervals :: [[integer]]) :: integer\n  def erase_overlap_intervals(intervals) do\n    \n  end\nend",
+      "erlang": "-spec erase_overlap_intervals(Intervals :: [[integer()]]) -> integer().\nerase_overlap_intervals(Intervals) ->\n  .",
+      "golang": "func eraseOverlapIntervals(intervals [][]int) int {\n    \n}",
+      "java": "class Solution {\n    public int eraseOverlapIntervals(int[][] intervals) {\n        \n    }\n}",
+      "javascript": "/**\n * @param {number[][]} intervals\n * @return {number}\n */\nvar eraseOverlapIntervals = function(intervals) {\n    \n};",
+      "kotlin": "class Solution {\n    fun eraseOverlapIntervals(intervals: Array<IntArray>): Int {\n        \n    }\n}",
+      "php": "class Solution {\n\n    /**\n     * @param Integer[][] $intervals\n     * @return Integer\n     */\n    function eraseOverlapIntervals($intervals) {\n        \n    }\n}",
+      "python": "class Solution(object):\n    def eraseOverlapIntervals(self, intervals):\n        \"\"\"\n        :type intervals: List[List[int]]\n        :rtype: int\n        \"\"\"\n        ",
+      "python3": "class Solution:\n    def eraseOverlapIntervals(self, intervals: List[List[int]]) -> int:\n        ",
+      "racket": "(define/contract (erase-overlap-intervals intervals)\n  (-> (listof (listof exact-integer?)) exact-integer?)\n  )",
+      "ruby": "# @param {Integer[][]} intervals\n# @return {Integer}\ndef erase_overlap_intervals(intervals)\n    \nend",
+      "rust": "impl Solution {\n    pub fn erase_overlap_intervals(intervals: Vec<Vec<i32>>) -> i32 {\n        \n    }\n}",
+      "scala": "object Solution {\n    def eraseOverlapIntervals(intervals: Array[Array[Int]]): Int = {\n        \n    }\n}",
+      "swift": "class Solution {\n    func eraseOverlapIntervals(_ intervals: [[Int]]) -> Int {\n        \n    }\n}",
+      "typescript": "function eraseOverlapIntervals(intervals: number[][]): number {\n    \n};"
+    },
+    "title": "Non-overlapping Intervals"
   },
   "number-of-connected-components-in-an-undirected-graph": {
     "frontend_id": "323",
