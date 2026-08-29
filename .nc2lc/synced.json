@@ -1451,6 +1451,17 @@
     "status": "Memory Limit Exceeded",
     "submission_id": 2093223266
   },
+  "random-pick-with-weight/submission-2.py": {
+    "at": "2026-08-29T11:24:19Z",
+    "file": "submission-2.py",
+    "leetcode_id": 528,
+    "leetcode_slug": "random-pick-with-weight",
+    "note": "verbatim",
+    "sha256": "7bf5f34e6ffb22a2fe5b8b21f21541cbd9bc803b9dd2cd87fce4602aa2c7c7c1",
+    "slug": "random-pick-with-weight",
+    "status": "Memory Limit Exceeded",
+    "submission_id": 2123766861
+  },
   "range-sum-query-immutable/submission-0.py": {
     "at": "2026-08-20T05:28:28Z",
     "file": "submission-0.py",
@@ -1461,6 +1472,28 @@
     "slug": "range-sum-query-immutable",
     "status": "Accepted",
     "submission_id": 2113500928
+  },
+  "range-sum-query-immutable/submission-3.py": {
+    "at": "2026-08-29T11:25:11Z",
+    "file": "submission-3.py",
+    "leetcode_id": 303,
+    "leetcode_slug": "range-sum-query-immutable",
+    "note": "verbatim",
+    "sha256": "75c0360de871c200a70d3618cbd4ddc74f10cf7b915964d78ad414008d186264",
+    "slug": "range-sum-query-immutable",
+    "status": "Accepted",
+    "submission_id": 2123767488
+  },
+  "range-sum-query-immutable/submission-4.py": {
+    "at": "2026-08-29T11:25:59Z",
+    "file": "submission-4.py",
+    "leetcode_id": 303,
+    "leetcode_slug": "range-sum-query-immutable",
+    "note": "verbatim",
+    "sha256": "5054c7d20972672d7506ec19b811074117d6ba05dd54513e241257cd742837e3",
+    "slug": "range-sum-query-immutable",
+    "status": "Accepted",
+    "submission_id": 2123768139
   },
   "remove-element/submission-0.py": {
     "at": "2026-08-13T05:26:05Z",
