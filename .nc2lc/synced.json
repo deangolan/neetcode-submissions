@@ -1495,6 +1495,17 @@
     "status": "Accepted",
     "submission_id": 2123768139
   },
+  "range-sum-query-immutable/submission-5.py": {
+    "at": "2026-08-30T10:10:25Z",
+    "file": "submission-5.py",
+    "leetcode_id": 303,
+    "leetcode_slug": "range-sum-query-immutable",
+    "note": "verbatim",
+    "sha256": "468b4e22450bb5992ae99464bae59f794595eeb9d24b1b08d1dcb4f03b9ef8a2",
+    "slug": "range-sum-query-immutable",
+    "status": "Accepted",
+    "submission_id": 2124900216
+  },
   "remove-element/submission-0.py": {
     "at": "2026-08-13T05:26:05Z",
     "file": "submission-0.py",
