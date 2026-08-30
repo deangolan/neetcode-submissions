@@ -54,6 +54,28 @@
     "status": "Accepted",
     "submission_id": 2105002459
   },
+  "best-time-to-buy-and-sell-stock-ii/submission-1.py": {
+    "at": "2026-08-30T20:00:09Z",
+    "file": "submission-1.py",
+    "leetcode_id": 122,
+    "leetcode_slug": "best-time-to-buy-and-sell-stock-ii",
+    "note": "verbatim",
+    "sha256": "8fae3806e516773bcdf11c0357a0eb592063d52d33a6181e1a1a3bc052df10f5",
+    "slug": "best-time-to-buy-and-sell-stock-ii",
+    "status": "Accepted",
+    "submission_id": 2125449601
+  },
+  "best-time-to-buy-and-sell-stock-ii/submission-2.py": {
+    "at": "2026-08-30T20:00:57Z",
+    "file": "submission-2.py",
+    "leetcode_id": 122,
+    "leetcode_slug": "best-time-to-buy-and-sell-stock-ii",
+    "note": "verbatim",
+    "sha256": "cf392387f307b79279ff91e2d1ca298156b02deb47039ef21d13b87a48423cb8",
+    "slug": "best-time-to-buy-and-sell-stock-ii",
+    "status": "Accepted",
+    "submission_id": 2125450044
+  },
   "binary-search/submission-1.py": {
     "at": "2026-08-03T20:36:45Z",
     "file": "submission-1.py",
@@ -846,6 +868,17 @@
     "status": "Accepted",
     "submission_id": 2109716420
   },
+  "is-subsequence/submission-3.py": {
+    "at": "2026-08-30T20:01:44Z",
+    "file": "submission-3.py",
+    "leetcode_id": 392,
+    "leetcode_slug": "is-subsequence",
+    "note": "verbatim",
+    "sha256": "6212584742522843b1874db52cf8388d6f3fe9b405ac567e4f91cbcc0940ac9f",
+    "slug": "is-subsequence",
+    "status": "Accepted",
+    "submission_id": 2125450513
+  },
   "island-perimeter/submission-0.py": {
     "at": "2026-08-07T06:05:46Z",
     "file": "submission-0.py",
@@ -1384,6 +1417,17 @@
     "slug": "partition-labels",
     "status": "Accepted",
     "submission_id": 2113497526
+  },
+  "pascals-triangle/submission-0.py": {
+    "at": "2026-08-30T20:02:32Z",
+    "file": "submission-0.py",
+    "leetcode_id": 118,
+    "leetcode_slug": "pascals-triangle",
+    "note": "verbatim",
+    "sha256": "ecaf7b508ec20d4412ffcd58b8e0ffaaeeabebee368bb1cca381da44031a6a3a",
+    "slug": "pascals-triangle",
+    "status": "Accepted",
+    "submission_id": 2125450972
   },
   "perfect-squares/submission-2.py": {
     "at": "2026-08-13T05:25:17Z",
