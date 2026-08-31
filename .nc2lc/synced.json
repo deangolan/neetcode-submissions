@@ -21,6 +21,17 @@
     "status": "Accepted",
     "submission_id": 2107193877
   },
+  "anagram-groups/submission-2.py": {
+    "at": "2026-08-31T11:13:03Z",
+    "file": "submission-2.py",
+    "leetcode_id": 49,
+    "leetcode_slug": "group-anagrams",
+    "note": "verbatim (unreviewed map row, cleared by matching signature)",
+    "sha256": "c27c037c38723a4c5b181623e59d5ae522e20af2c0c3aba6fdcd4a322f43ebc0",
+    "slug": "anagram-groups",
+    "status": "Accepted",
+    "submission_id": 2126020479
+  },
   "average-waiting-time/submission-0.py": {
     "at": "2026-08-28T17:36:52Z",
     "file": "submission-0.py",
@@ -1461,6 +1472,17 @@
     "slug": "permutation-string",
     "status": "Accepted",
     "submission_id": 2093222974
+  },
+  "populating-next-right-pointers-in-each-node/submission-1.py": {
+    "at": "2026-08-31T11:13:51Z",
+    "file": "submission-1.py",
+    "leetcode_id": 116,
+    "leetcode_slug": "populating-next-right-pointers-in-each-node",
+    "note": "verbatim",
+    "sha256": "c28ed34787eaae18dfe0b888b6c819df92964b6d6cf3737c1c4af0f6b465e3f0",
+    "slug": "populating-next-right-pointers-in-each-node",
+    "status": "Accepted",
+    "submission_id": 2126021111
   },
   "products-of-array-discluding-self/submission-0.py": {
     "at": "2026-08-20T05:26:53Z",
