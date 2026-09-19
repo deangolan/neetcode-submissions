@@ -505,6 +505,17 @@
     "status": "Accepted",
     "submission_id": 2107241058
   },
+  "design-browser-history/submission-1.py": {
+    "at": "2026-09-19T23:47:08Z",
+    "file": "submission-1.py",
+    "leetcode_id": 1472,
+    "leetcode_slug": "design-browser-history",
+    "note": "verbatim",
+    "sha256": "eaf9630d8a1eae9dcbca14661d2cb45bcdf8b9c65650ddf7817cce97136786f4",
+    "slug": "design-browser-history",
+    "status": "Accepted",
+    "submission_id": 2147091580
+  },
   "design-hashmap/submission-0.py": {
     "at": "2026-08-13T05:22:50Z",
     "file": "submission-0.py",
